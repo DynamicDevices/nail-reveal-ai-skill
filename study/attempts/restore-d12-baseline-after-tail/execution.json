@@ -1,0 +1,18 @@
+{
+  "attempt": "restore-d12-baseline-after-tail",
+  "recording_start_confirmed": true,
+  "video": "attempts/restore-d12-baseline-after-tail/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "43.875378",
+      "size": "13657152"
+    }
+  },
+  "elapsed_seconds": 44.807,
+  "stages": [
+    "teal",
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

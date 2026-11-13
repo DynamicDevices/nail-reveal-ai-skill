@@ -1,0 +1,19 @@
+{
+  "attempt": "d09-c01-a01",
+  "recording_start_confirmed": true,
+  "video": "attempts/d09-c01-a01/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "38.711656",
+      "size": "13579792"
+    }
+  },
+  "elapsed_seconds": 39.632,
+  "stages": [
+    "short-roof",
+    "tall-reconstruction",
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

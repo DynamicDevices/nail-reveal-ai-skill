@@ -1,0 +1,19 @@
+{
+  "attempt": "restore-d10-c03-after-gold",
+  "recording_start_confirmed": true,
+  "video": "attempts/restore-d10-c03-after-gold/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "43.279767",
+      "size": "15434444"
+    }
+  },
+  "elapsed_seconds": 44.271,
+  "stages": [
+    "teal",
+    "masks",
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

@@ -1,0 +1,18 @@
+{
+  "attempt": "fullhand-three-strip-rest",
+  "recording_start_confirmed": true,
+  "video": "attempts/fullhand-three-strip-rest/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "29.166678",
+      "size": "14081648"
+    }
+  },
+  "elapsed_seconds": 30.197,
+  "stages": [
+    "index",
+    "middle"
+  ],
+  "failure": null,
+  "accepted": null
+}

@@ -1,0 +1,18 @@
+{
+  "attempt": "d08-c01-a02-unoccluded-check",
+  "recording_start_confirmed": true,
+  "video": "attempts/d08-c01-a02-unoccluded-check/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "10.238256",
+      "size": "1902816"
+    }
+  },
+  "elapsed_seconds": 10.816,
+  "stages": [
+    "hand-preview",
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

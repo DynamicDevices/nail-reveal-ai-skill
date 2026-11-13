@@ -5,7 +5,19 @@ A portable [Agent Skills](https://agentskills.io/specification) guide to playing
 on an Android phone using ADB. It records what Alex and Briar learned while
 trying flags, testing the tools and making nail art.
 
-![Recorded crescent, flower and sunset trials](media/images/nail-art-range.png)
+![Twenty recorded glazed single-nail designs](study/guide/study-twenty-glazed-designs.png)
+
+The [generative design study](study/README.md) contains20 starting ideas,
+100 accepted-change records and the rejected attempts, restorations, recipes,
+recordings and comparisons. These are actual game captures, not generated
+mock-ups. Counts do not certify beauty: outcomes are uneven and the five
+requested full-hand sets are unfinished. See the [final aesthetic audit](study/guide/study-final-aesthetic-audit.md).
+
+This development candidate has completed export validation and sampled gameplay
+media review; [review scope and limits](study/REVIEW.md) are recorded. Independent
+repository review remains pending. It is not a completed study release.
+
+![Earlier crescent, flower and sunset trials](media/images/nail-art-range.png)
 
 These were painted sequentially on one test nail, not generated mock-ups.
 The crescent was cut through a black coat and partly repainted; the sunset
@@ -32,7 +44,7 @@ injector. Ordinary ADB is the baseline. Faster paths are optional and have
 | --- | --- |
 | E-file/drill | Strips colour and base coat back to pink natural nail |
 | Nail file | Did not change the tested fresh polish |
-| Cone Bit | Locked until Salon Level 2; effect untested |
+| Cone Bit | Locked in the polish test; later worked in Level2 tidy-base preparation. Polish removal still untested |
 | Pink buffer | Did not change the tested fresh polish |
 | Polish brush | Paints on held contact; repainting the background can clean an edge |
 
@@ -61,9 +73,10 @@ recording interruptions and unsupported multitouch.
 Live tests used Nail Reveal 1.25, Android 15 and a 1080×2400 phone, controlled
 from Linux. Windows setup is documented but has not been tested live.
 Coordinates, tool offsets and palette timings are layout-specific.
-Multitouch, adjustable brush width and the Cone Bit remain unverified.
-Painting results do not prove curing, top-coat behaviour or saved-manicure
-persistence. This is an experimental usage skill, not an official game manual.
+Multitouch, adjustable brush width and Cone Bit polish removal remain unverified.
+The later study recorded explicit Lamp/top-coat completion, but saved-manicure
+persistence and all-five-nail editing remain unproved. This is an experimental
+usage skill, not an official game manual.
 
 ## Rights and privacy
 

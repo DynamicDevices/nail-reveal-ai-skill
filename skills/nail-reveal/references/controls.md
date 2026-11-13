@@ -111,6 +111,26 @@ Never label a test passed merely because commands returned success.
 
 Use [the persistent-shell procedure](optimisation.md). It supersedes repeated shell startup and long independent passes where the continuous-contact method has been tested. The older swipe recipe remains a fallback and evidence of the first flag attempt.
 
+## Later study observations: client limits, Cone Bit and finishing
+
+Normal job completion unlocked Salon Level2 and the Cone Bit. The next chip
+repair×3 job had seven stages, inserting "Tidy the base" with the Cone Bit
+between file/shape and buff. Selecting it at100,950 and using the tested
+continuous traversal completed that preparation stage. This did not test its
+effect on painted polish. Tool availability and the stage count can change.
+
+The earlier chip repair×2 job allowed only thumb/index edits: repeated right
+arrows alternated those two canvases, and the brief explicitly marked two nails.
+Five visible nails or dot graphics do not prove five editable nails. Inspect
+the brief and actual navigation before promising a complete-hand design.
+
+In the study, Lamp690,2200 produced an explicit top-coat/cure completion in Hand.
+Done840,2200 ended the job and changed the toolbar and editing state. These
+observations do not prove saved-gallery persistence. After a subsequent job,
+the next-client route presented "An ad is coming up" with a remove-ads purchase
+and Continue. Stop at that boundary if ads/purchases are outside the owner's
+permission; do not silently press Continue or use another route to bypass it.
+
 ## Multi-touch: documented, not yet exercised
 
 The app says: "Use a second finger to turn the tool."

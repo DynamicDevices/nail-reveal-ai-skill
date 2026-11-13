@@ -1,0 +1,21 @@
+{
+  "attempt": "d07-restore-c02-full",
+  "recording_start_confirmed": true,
+  "video": "attempts/d07-restore-c02-full/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "113.022056",
+      "size": "42095576"
+    }
+  },
+  "elapsed_seconds": 114.791,
+  "stages": [
+    "black-base",
+    "upper-fill",
+    "upper-trim",
+    "lower-fill",
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

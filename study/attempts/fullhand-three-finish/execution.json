@@ -1,0 +1,17 @@
+{
+  "attempt": "fullhand-three-finish",
+  "recording_start_confirmed": true,
+  "video": "attempts/fullhand-three-finish/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "4.990022",
+      "size": "2565912"
+    }
+  },
+  "elapsed_seconds": 5.62,
+  "stages": [
+    "finish"
+  ],
+  "failure": null,
+  "accepted": null
+}

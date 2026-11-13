@@ -1,0 +1,18 @@
+{
+  "attempt": "d05-c05-hand-review",
+  "recording_start_confirmed": true,
+  "video": "attempts/d05-c05-hand-review/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "8.181933",
+      "size": "1414412"
+    }
+  },
+  "elapsed_seconds": 8.708,
+  "stages": [
+    "hand-review",
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

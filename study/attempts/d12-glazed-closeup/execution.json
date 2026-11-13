@@ -1,0 +1,17 @@
+{
+  "attempt": "d12-glazed-closeup",
+  "recording_start_confirmed": true,
+  "video": "attempts/d12-glazed-closeup/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "4.900589",
+      "size": "1172364"
+    }
+  },
+  "elapsed_seconds": 5.476,
+  "stages": [
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

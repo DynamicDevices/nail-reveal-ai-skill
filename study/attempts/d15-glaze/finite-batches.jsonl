@@ -1,0 +1,1 @@
+{"stage": "final", "seconds": 5.122, "full": "attempts/d15-glaze/final-gameplay.png", "preview": "attempts/d15-glaze/final-nail.png", "crop_origin": [140, 400], "scale": 0.5, "steps": [{"type": "tool", "x": 690, "y": 2200}, {"type": "wait", "seconds": 3}]}

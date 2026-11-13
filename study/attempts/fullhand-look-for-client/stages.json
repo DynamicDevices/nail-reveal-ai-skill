@@ -1,0 +1,13 @@
+{
+  "clients": [
+    {
+      "type": "tool",
+      "x": 540,
+      "y": 2010
+    },
+    {
+      "type": "wait",
+      "seconds": 2
+    }
+  ]
+}

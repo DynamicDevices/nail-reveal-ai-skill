@@ -1,0 +1,13 @@
+{
+  "finish": [
+    {
+      "type": "tool",
+      "x": 840,
+      "y": 2200
+    },
+    {
+      "type": "wait",
+      "seconds": 3
+    }
+  ]
+}

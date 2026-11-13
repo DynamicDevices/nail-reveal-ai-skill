@@ -1,0 +1,2 @@
+{"stage": "lamp-selected", "seconds": 1.961, "full": "attempts/d01-glaze-test/lamp-selected-gameplay.png", "preview": "attempts/d01-glaze-test/lamp-selected-nail.png", "crop_origin": [140, 400], "scale": 0.5, "steps": [{"type": "tool", "x": 690, "y": 2200}]}
+{"stage": "lamp-settled", "seconds": 4.765, "full": "attempts/d01-glaze-test/lamp-settled-gameplay.png", "preview": "attempts/d01-glaze-test/lamp-settled-nail.png", "crop_origin": [140, 400], "scale": 0.5, "steps": [{"type": "wait", "seconds": 3}]}

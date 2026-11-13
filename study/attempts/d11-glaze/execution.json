@@ -1,0 +1,17 @@
+{
+  "attempt": "d11-glaze",
+  "recording_start_confirmed": true,
+  "video": "attempts/d11-glaze/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "5.700667",
+      "size": "2260020"
+    }
+  },
+  "elapsed_seconds": 6.299,
+  "stages": [
+    "glazed-hand"
+  ],
+  "failure": null,
+  "accepted": null
+}

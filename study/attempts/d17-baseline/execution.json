@@ -1,0 +1,19 @@
+{
+  "attempt": "d17-baseline",
+  "recording_start_confirmed": true,
+  "video": "attempts/d17-baseline/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "30.376611",
+      "size": "9421452"
+    }
+  },
+  "elapsed_seconds": 31.213,
+  "stages": [
+    "final",
+    "hand",
+    "returned"
+  ],
+  "failure": null,
+  "accepted": null
+}

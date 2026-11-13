@@ -1,0 +1,17 @@
+{
+  "attempt": "swipe-reference-dense",
+  "recording_start_confirmed": true,
+  "video": "attempts/swipe-reference-dense/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "24.030067",
+      "size": "7887060"
+    }
+  },
+  "elapsed_seconds": 24.858,
+  "stages": [
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

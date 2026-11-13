@@ -1,0 +1,17 @@
+{
+  "attempt": "d01-c01-a01",
+  "recording_start_confirmed": true,
+  "video": "attempts/d01-c01-a01/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "10.336667",
+      "size": "3897656"
+    }
+  },
+  "elapsed_seconds": 10.92,
+  "stages": [
+    "small-pearls-final"
+  ],
+  "failure": null,
+  "accepted": null
+}

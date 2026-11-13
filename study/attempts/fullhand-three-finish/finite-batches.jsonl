@@ -1,0 +1,1 @@
+{"stage": "finish", "seconds": 4.542, "full": "attempts/fullhand-three-finish/finish-gameplay.png", "preview": "attempts/fullhand-three-finish/finish-nail.png", "crop_origin": [140, 400], "scale": 0.5, "steps": [{"type": "tool", "x": 840, "y": 2200}, {"type": "wait", "seconds": 3}]}

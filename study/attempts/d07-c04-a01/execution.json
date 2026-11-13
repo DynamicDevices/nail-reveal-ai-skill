@@ -1,0 +1,19 @@
+{
+  "attempt": "d07-c04-a01",
+  "recording_start_confirmed": true,
+  "video": "attempts/d07-c04-a01/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "24.032767",
+      "size": "10070724"
+    }
+  },
+  "elapsed_seconds": 24.902,
+  "stages": [
+    "white-inlays",
+    "teal-cuts",
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

@@ -1,0 +1,18 @@
+{
+  "attempt": "fullhand-finish-two-nail-client",
+  "recording_start_confirmed": true,
+  "video": "attempts/fullhand-finish-two-nail-client/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "7.740811",
+      "size": "3333108"
+    }
+  },
+  "elapsed_seconds": 8.374,
+  "stages": [
+    "dismiss",
+    "finish"
+  ],
+  "failure": null,
+  "accepted": null
+}

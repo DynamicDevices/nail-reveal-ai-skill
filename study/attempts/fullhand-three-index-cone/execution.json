@@ -1,0 +1,17 @@
+{
+  "attempt": "fullhand-three-index-cone",
+  "recording_start_confirmed": true,
+  "video": "attempts/fullhand-three-index-cone/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "13.853244",
+      "size": "6350772"
+    }
+  },
+  "elapsed_seconds": 14.61,
+  "stages": [
+    "tidy"
+  ],
+  "failure": null,
+  "accepted": null
+}

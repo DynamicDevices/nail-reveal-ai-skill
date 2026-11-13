@@ -1,0 +1,1 @@
+{"final":[{"type":"colour","x":390,"y":1560},{"type":"hold","x":480,"y":1180,"seconds":1},{"type":"colour","x":250,"y":1410},{"type":"hold","x":510,"y":1205,"seconds":1}],"hand":[{"type":"tool","x":380,"y":2200},{"type":"wait","seconds":3}],"returned":[{"type":"tool","x":380,"y":2200},{"type":"wait","seconds":3}]}

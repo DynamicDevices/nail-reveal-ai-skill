@@ -1,0 +1,25 @@
+{
+  "attempt": "d14-restore-c04-after-rain",
+  "recording_start_confirmed": true,
+  "video": "attempts/d14-restore-c04-after-rain/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "174.388111",
+      "size": "66626768"
+    }
+  },
+  "elapsed_seconds": 176.663,
+  "stages": [
+    "d14-clean-base-strip",
+    "d14-clean-base-final",
+    "d14-baseline-final",
+    "d14-c01-a01-final",
+    "d14-c02-a01-final",
+    "d14-c03-a01-shaft",
+    "d14-c03-a01-final",
+    "d14-c04-a01-hook",
+    "d14-c04-a01-final"
+  ],
+  "failure": null,
+  "accepted": null
+}

@@ -1,0 +1,18 @@
+{
+  "attempt": "d06-c02-a01",
+  "recording_start_confirmed": true,
+  "video": "attempts/d06-c02-a01/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "44.874311",
+      "size": "14834232"
+    }
+  },
+  "elapsed_seconds": 45.765,
+  "stages": [
+    "coral-contacts",
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

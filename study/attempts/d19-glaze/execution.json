@@ -1,0 +1,17 @@
+{
+  "attempt": "d19-glaze",
+  "recording_start_confirmed": true,
+  "video": "attempts/d19-glaze/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "5.636378",
+      "size": "2391284"
+    }
+  },
+  "elapsed_seconds": 6.272,
+  "stages": [
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

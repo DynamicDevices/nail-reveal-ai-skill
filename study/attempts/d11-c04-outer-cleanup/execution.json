@@ -1,0 +1,20 @@
+{
+  "attempt": "d11-c04-outer-cleanup",
+  "recording_start_confirmed": true,
+  "video": "attempts/d11-c04-outer-cleanup/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "55.663433",
+      "size": "10469544"
+    }
+  },
+  "elapsed_seconds": 56.601,
+  "stages": [
+    "outer",
+    "tails",
+    "gap",
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

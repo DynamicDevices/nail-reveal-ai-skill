@@ -42,14 +42,16 @@ measurements, not exact brush masks or game-engine values.
 | --- | --- | --- |
 | 1, about (100,650) | E-file/drill | Removed blue AND the white base coat, exposing pink natural nail |
 | 2, about (100,800) | Nail file | Crossed a test dot; its measured blue area/signal stayed unchanged |
-| 3, about (100,950) | Cone Bit, locked | Earlier offered ad-based temporary access; current tap showed “Unlocks at Salon Level 2” and left the file selected. Removal behaviour untested |
+| 3, about (100,950) | Cone Bit | Locked during the painting-stage test; later unlocked at Level2 and completed its dedicated tidy-base preparation stage. Painted-polish removal remains untested |
 | 4, about (100,1100) | Pink buffer block | Crossed the same test dot; blue area/signal stayed unchanged |
 | 5, about (100,1260) | Polish brush | Paints on held contact; background-colour overpainting can trim a coloured mark |
 
 These are not five proven brush widths or five polish erasers. File/buffer may
 have useful preparation-stage functions, but those broader functions were not
 established by this painting-stage test. The locked Cone Bit cannot be called
-a delicate remover until it is actually unlocked and tested. Do not accept ads,
+a delicate remover until painted-polish removal is actually tested. Later
+preparation-stage use is documented in [the study findings](generative-study.md).
+Do not accept ads,
 buy an upgrade or bypass progression as an implicit part of tool inspection.
 
 Two matched 0.25-second stationary blue controls were at (540,1100) and

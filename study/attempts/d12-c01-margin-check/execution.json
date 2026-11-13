@@ -1,0 +1,18 @@
+{
+  "attempt": "d12-c01-margin-check",
+  "recording_start_confirmed": true,
+  "video": "attempts/d12-c01-margin-check/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "10.195600",
+      "size": "1923332"
+    }
+  },
+  "elapsed_seconds": 10.813,
+  "stages": [
+    "hand-preview",
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

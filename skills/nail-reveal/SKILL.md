@@ -41,11 +41,15 @@ If you cannot run ADB or inspect screenshots, explain that limitation to the hum
 - The left icons change tools, not demonstrated brush sizes. On the tested
   five-icon layout: drill, nail file, Cone Bit offer, pink buffer, polish brush.
   First/second findings come from the earlier test; fourth/fifth were confirmed
-  in the optimisation session. Decline understood offers; do not watch ads.
+  in the optimisation session. The Cone Bit later unlocked through normal
+  Level2 progression and completed a preparation-stage tidy-base task; its
+  effect on painted polish remains unknown. Decline understood offers; do not watch ads.
 - Read [paint/contact and tool tests](references/paint-and-tools.md) before
   cleanup. The drill removed both polish and base coat, exposing pink nail;
   the file and buffer left the tested polish dots unchanged. The Cone Bit was
-  locked until Salon Level 2. Do not call these five interchangeable erasers.
+  locked until Salon Level 2 during the polish-removal test. Its later
+  preparation-stage success is not a polish-erasing test. Do not call these five
+  interchangeable erasers.
 - Use the fifth brush for polish on this layout. Icon positions can change.
 - An uninterrupted DOWN/MOVE/UP path produced near-complete blue coverage much
   faster than the older independent long-pass approach, on the tested nail.
@@ -80,6 +84,12 @@ Keep painting-stage results separate from unverified gel/cure/top-coat behaviour
 Read [Linux/Windows setup](references/setup.md) before first use. This experimental
 skill uses ordinary ADB; no packaged agent-specific helper or daemon is required.
 Windows/device-specific behaviour still needs live validation.
+
+For more ambitious work, read [generative design and quality checks](references/generative-study.md).
+The recorded study has20 starting ideas and100 accepted-change records, with
+rejections, restorations and glaze captures. These counts do not certify beauty:
+some motifs remain weak, and the five requested full-hand sets are unfinished.
+Never count a partial manicure as a full hand or a sketch as an executed design.
 
 Keep original photos, recordings, device/account identifiers and authorisation
 material private. MIT covers our original instructions/code, not the game/assets.

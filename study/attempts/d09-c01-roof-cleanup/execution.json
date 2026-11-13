@@ -1,0 +1,19 @@
+{
+  "attempt": "d09-c01-roof-cleanup",
+  "recording_start_confirmed": true,
+  "video": "attempts/d09-c01-roof-cleanup/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "49.984856",
+      "size": "15567116"
+    }
+  },
+  "elapsed_seconds": 50.982,
+  "stages": [
+    "short-roof",
+    "tall-reconstruction",
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

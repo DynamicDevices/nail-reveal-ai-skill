@@ -1,0 +1,17 @@
+{
+  "attempt": "d06-c05-cleanup",
+  "recording_start_confirmed": true,
+  "video": "attempts/d06-c05-cleanup/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "12.332033",
+      "size": "4011476"
+    }
+  },
+  "elapsed_seconds": 13.01,
+  "stages": [
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

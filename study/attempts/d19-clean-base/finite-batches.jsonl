@@ -1,0 +1,2 @@
+{"stage": "strip", "seconds": 12.961, "full": "attempts/d19-clean-base/strip-gameplay.png", "preview": "attempts/d19-clean-base/strip-nail.png", "crop_origin": [140, 400], "scale": 0.5, "steps": [{"type": "tool", "x": 100, "y": 650}, {"type": "coat-v2"}]}
+{"stage": "final", "seconds": 27.666, "full": "attempts/d19-clean-base/final-gameplay.png", "preview": "attempts/d19-clean-base/final-nail.png", "crop_origin": [140, 400], "scale": 0.5, "steps": [{"type": "tool", "x": 100, "y": 1260}, {"type": "colour", "x": 250, "y": 1410}, {"type": "coat-v2"}, {"type": "coat-v2"}]}
