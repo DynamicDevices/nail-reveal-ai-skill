@@ -43,3 +43,18 @@ later designs. Linux was tested; Windows and other-device compatibility remain
 untested. No independent integration review is claimed by this test record.
 
 Assisted-by: Briar.
+# General-skill companion checks
+
+Run `python3 -B tests/validate_general_skill_link.py` alongside the existing
+content tests. It checks the pinned general-skill dependency, honest live-test
+limits and retention of the local safety/tool findings. It does not drive a phone
+or prove cross-app/Claude compatibility. The study, media and recreation recipes
+are unchanged by this companion refactor.
+
+The changed Nail Reveal skill passed static scanning (score 7/LOW, one finding).
+The unchanged prohibition “Do not replay a partially completed batch without
+checking the screen” was already triaged in the study review as a false-positive
+autonomy finding. This scan is not independent repository approval. The new
+general skill's scan had score 0/no findings; its offline checks live in its own
+repository. Neither result certifies app behaviour or player engagement.
+

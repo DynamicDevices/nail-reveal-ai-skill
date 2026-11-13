@@ -14,6 +14,12 @@ Use when the human asks you to play or make nail art in Nail Reveal.
 This skill does not grant phone access, purchases, account changes or publication.
 If you cannot run ADB or inspect screenshots, explain that limitation to the human.
 
+This is the game-specific companion to the [general playtesting skill](references/general-playtesting.md).
+Use that skill for controlled exploration, developer reports, disengagement
+hypotheses, creative proposals and experiment planning. Keep Nail Reveal controls,
+calibration and reproduction evidence here. Do not load the full study for a
+simple test: choose the relevant reference below.
+
 ## Start here
 
 1. Have the owner connect and authorise their intended phone. Select an explicit
@@ -24,17 +30,15 @@ If you cannot run ADB or inspect screenshots, explain that limitation to the hum
    once. Preserve failures and disclose gaps. Sharing is a separate decision.
 4. Read [tested controls](references/controls.md) for the current stage and
    [efficient execution](references/optimisation.md) before painting.
-5. Keep one ADB control shell open across finite batches. Capture screenshots on
-   a separate binary-safe connection. Inspect after stage/modal/tool transitions,
-   not after every known stroke. Stop dependent actions if a prerequisite fails.
-6. Treat speedups as optional. Follow the [fallback ladder](references/optimisation.md#fallback-ladder)
-   when a platform or device cannot support them. Reconcile partial effects first;
-   never replay a whole batch merely because its completion marker was lost.
-7. After known actions, inspect only the relevant image region: nail silhouette
-   for painting, palette for colour, or dialog for its choices. Retain the full
-   capture and crop/scale mapping. Use full-frame inspection for initial state,
-   unfamiliar transitions, suspected dialogs or uncertainty. See
-   [focused image inspection](references/optimisation.md#focused-image-inspection).
+5. Apply the general observe/test/verify method, with [this game's ADB implementation](references/optimisation.md):
+   finite batches in one control shell, separate binary-safe capture, relevant
+   crops with original/mapping retained, and full-view checks for transitions or
+   uncertainty. Optional speedups must have a working fallback. Stop dependent
+   input on failed prerequisites; inspect partial effects before any replay.
+
+The local setup and fallback references remain usable without installing the
+general skill. They preserve the tested device procedure, not a claim that
+generic coordinates or timing transfer to another game.
 
 ## Important findings
 
@@ -70,28 +74,31 @@ If you cannot run ADB or inspect screenshots, explain that limitation to the hum
 - Multi-touch rotation and brush-width adjustment remain unverified. Parallel
   ADB swipes are not a verified two-finger gesture.
 
-## Exercises and remaining work
+## Choose a Nail Reveal task
 
-Start with a single coat, then bands, then the [tested French tricolour recipe](references/recipes.md).
-The [first recorded UK-flag recipe](references/uk-flag.md) produced a recognisable,
-stylised Union Jack. Exact proportions, offset diagonals and curing remain unverified.
-The [Japan and Brazil attempts](references/japan-brazil.md) added round marks,
-overlapping recoats, diamond fills and outline smoothing. Brazil uses approximate
-colours and has no stars or lettering. These designs were not cured.
-For non-flag art, use the [recorded coat/cut/repaint designs](references/design-lab.md):
-a negative-space crescent, a five-petal flower, and a sunset inlay with mountains.
-Keep painting-stage results separate from unverified gel/cure/top-coat behaviour.
-Read [Linux/Windows setup](references/setup.md) before first use. This experimental
-skill uses ordinary ADB; no packaged agent-specific helper or daemon is required.
-Windows/device-specific behaviour still needs live validation.
+| Task | Read |
+| --- | --- |
+| First connection / portable fallback | [Linux/Windows setup](references/setup.md) and [ADB execution](references/optimisation.md) |
+| Identify stage/tool effects | [Controls](references/controls.md) and [contact/cleanup experiments](references/paint-and-tools.md) |
+| Single coat, bands, French tricolour | [Starter recipes](references/recipes.md) |
+| UK, Japan or Brazil flags | [UK](references/uk-flag.md) or [Japan/Brazil](references/japan-brazil.md) |
+| Crescent, flower or sunset | [Coat/cut/repaint design lab](references/design-lab.md) |
+| Iterative art and quality assessment | [Generative study](references/generative-study.md) |
 
-For more ambitious work, read [generative design and quality checks](references/generative-study.md).
-The recorded study has20 starting ideas and100 accepted-change records, with
-rejections, restorations and glaze captures. These counts do not certify beauty:
-some motifs remain weak, and the five requested full-hand sets are unfinished.
-Never count a partial manicure as a full hand or a sketch as an executed design.
+Read each recipe's limits: earlier flag/design-lab tests were not cured; UK
+proportions and Brazil's colours/details are approximate. Later study glaze
+captures do not retroactively cure those tests. The study's20 ideas and100
+accepted-change records do not certify beauty; outcomes are uneven and the five
+full-hand sets remain unfinished. A sketch or partial manicure is not execution
+or a full hand. Windows/device-specific replay remains untested; no daemon is
+required. Keep exact recipes and historical evidence in their linked references.
 
 Keep original photos, recordings, device/account identifiers and authorisation
 material private. MIT covers our original instructions/code, not the game/assets.
+
+For feedback to the developer, distinguish these observed game results from
+usability interpretations, disengagement hypotheses and untested feature ideas.
+Use the general report/experiment templates; no player study or app code change
+is authorised by a playtest request alone.
 
 Assisted-by: Briar

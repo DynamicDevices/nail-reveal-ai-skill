@@ -1,5 +1,10 @@
 # Efficient ADB nail creation
 
+This is the tested Nail Reveal ADB implementation and historical calibration.
+Use the [general playtesting method](general-playtesting.md) for the shared
+observe/test/verify process. These device details remain local so the existing
+recipes and standalone fallbacks can still be inspected and reproduced.
+
 ## Fallback ladder
 
 Optimisation must not become a prerequisite for using the skill. Start with

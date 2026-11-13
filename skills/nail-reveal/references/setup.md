@@ -1,5 +1,9 @@
 # Linux and Windows: first connection
 
+This is the Nail Reveal Android setup. For Claude installation, general app
+testing and other adapters, see the [general skill companion](general-playtesting.md).
+Keep these tested/local fallback instructions even when using both skills.
+
 The human must own the phone or have permission to control it. ADB provides
 powerful device access: approve only a trusted computer, and revoke its USB
 debugging authorisation afterwards if the connection is temporary.

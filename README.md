@@ -5,6 +5,15 @@ A portable [Agent Skills](https://agentskills.io/specification) guide to playing
 on an Android phone using ADB. It records what Alex and Briar learned while
 trying flags, testing the tools and making nail art.
 
+For testing other games or apps, start with the separate
+[general playtesting skill](https://github.com/DynamicDevices/game-playtesting-skill/tree/93905be40c2611d903c508cdfd266bd091f1418f).
+It contains the shared investigation method, Claude setup, developer reports,
+creative proposals and experiment planning. This repository remains the Nail
+Reveal-specific companion: tested controls, stage behaviour, timings, recipes
+and recorded evidence. See [how the two skills fit together](skills/nail-reveal/references/general-playtesting.md).
+The general package is a development candidate, not yet validated live in Claude
+or on a second app. Its source revision is pinned here for reproducibility.
+
 ![Twenty recorded glazed single-nail designs](study/guide/study-twenty-glazed-designs.png)
 
 The [generative design study](study/README.md) contains20 starting ideas,
