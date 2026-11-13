@@ -1,0 +1,17 @@
+{
+  "attempt": "d05-glaze",
+  "recording_start_confirmed": true,
+  "video": "attempts/d05-glaze/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "5.624044",
+      "size": "2431504"
+    }
+  },
+  "elapsed_seconds": 6.209,
+  "stages": [
+    "glazed-hand"
+  ],
+  "failure": null,
+  "accepted": null
+}

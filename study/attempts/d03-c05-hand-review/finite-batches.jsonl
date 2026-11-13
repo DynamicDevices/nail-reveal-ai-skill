@@ -1,0 +1,2 @@
+{"stage": "hand-review", "seconds": 4.161, "full": "attempts/d03-c05-hand-review/hand-review-gameplay.png", "preview": "attempts/d03-c05-hand-review/hand-review-nail.png", "crop_origin": [140, 400], "scale": 0.5, "steps": [{"type": "tool", "x": 380, "y": 2200}, {"type": "wait", "seconds": 2}]}
+{"stage": "final", "seconds": 3.476, "full": "attempts/d03-c05-hand-review/final-gameplay.png", "preview": "attempts/d03-c05-hand-review/final-nail.png", "crop_origin": [140, 400], "scale": 0.5, "steps": [{"type": "tool", "x": 380, "y": 2200}, {"type": "wait", "seconds": 2}]}

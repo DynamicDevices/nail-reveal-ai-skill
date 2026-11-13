@@ -1,0 +1,19 @@
+{
+  "attempt": "d04-restore-c01-after-c02",
+  "recording_start_confirmed": true,
+  "video": "attempts/d04-restore-c01-after-c02/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "50.184167",
+      "size": "18850740"
+    }
+  },
+  "elapsed_seconds": 51.277,
+  "stages": [
+    "black-reset",
+    "gold-fan",
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

@@ -1,0 +1,17 @@
+{
+  "attempt": "d06-c01-a01",
+  "recording_start_confirmed": true,
+  "video": "attempts/d06-c01-a01/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "25.898900",
+      "size": "8716152"
+    }
+  },
+  "elapsed_seconds": 26.723,
+  "stages": [
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

@@ -1,0 +1,19 @@
+{
+  "attempt": "d09-c02-joint-cleanup",
+  "recording_start_confirmed": true,
+  "video": "attempts/d09-c02-joint-cleanup/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "19.981600",
+      "size": "4865676"
+    }
+  },
+  "elapsed_seconds": 20.64,
+  "stages": [
+    "joint",
+    "hand-preview",
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

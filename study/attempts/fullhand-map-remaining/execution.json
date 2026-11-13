@@ -1,0 +1,20 @@
+{
+  "attempt": "fullhand-map-remaining",
+  "recording_start_confirmed": true,
+  "video": "attempts/fullhand-map-remaining/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "30.320789",
+      "size": "2904240"
+    }
+  },
+  "elapsed_seconds": 30.949,
+  "stages": [
+    "slot2",
+    "slot3",
+    "slot4",
+    "slot5"
+  ],
+  "failure": null,
+  "accepted": null
+}

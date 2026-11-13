@@ -1,0 +1,18 @@
+{
+  "attempt": "d06-c03-a01",
+  "recording_start_confirmed": true,
+  "video": "attempts/d06-c03-a01/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "32.055378",
+      "size": "11443896"
+    }
+  },
+  "elapsed_seconds": 32.913,
+  "stages": [
+    "teal-contacts",
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

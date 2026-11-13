@@ -1,0 +1,2 @@
+{"stage": "strip", "seconds": 13.25, "full": "attempts/d04-clean-base/strip-gameplay.png", "preview": "attempts/d04-clean-base/strip-nail.png", "crop_origin": [140, 400], "scale": 0.5, "steps": [{"type": "tool", "x": 100, "y": 650}, {"type": "coat-v2"}]}
+{"stage": "final", "seconds": 15.762, "full": "attempts/d04-clean-base/final-gameplay.png", "preview": "attempts/d04-clean-base/final-nail.png", "crop_origin": [140, 400], "scale": 0.5, "steps": [{"type": "tool", "x": 100, "y": 1260}, {"type": "colour", "x": 830, "y": 1560}, {"type": "coat-v2"}]}

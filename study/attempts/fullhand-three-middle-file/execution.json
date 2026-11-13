@@ -1,0 +1,17 @@
+{
+  "attempt": "fullhand-three-middle-file",
+  "recording_start_confirmed": true,
+  "video": "attempts/fullhand-three-middle-file/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "13.783244",
+      "size": "6042316"
+    }
+  },
+  "elapsed_seconds": 14.477,
+  "stages": [
+    "file"
+  ],
+  "failure": null,
+  "accepted": null
+}

@@ -1,0 +1,4 @@
+{
+  "lamp-selected": [{"type":"tool","x":690,"y":2200}],
+  "lamp-settled": [{"type":"wait","seconds":3}]
+}

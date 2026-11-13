@@ -1,0 +1,18 @@
+{
+  "attempt": "fullhand-quick-client-brief",
+  "recording_start_confirmed": true,
+  "video": "attempts/fullhand-quick-client-brief/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "5.644411",
+      "size": "1873236"
+    }
+  },
+  "elapsed_seconds": 6.297,
+  "stages": [
+    "close",
+    "brief"
+  ],
+  "failure": null,
+  "accepted": null
+}

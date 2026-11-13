@@ -1,0 +1,17 @@
+{
+  "attempt": "swipe-candidate-native",
+  "recording_start_confirmed": true,
+  "video": "attempts/swipe-candidate-native/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "9.105578",
+      "size": "3432508"
+    }
+  },
+  "elapsed_seconds": 9.744,
+  "stages": [
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

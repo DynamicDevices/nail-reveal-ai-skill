@@ -1,0 +1,20 @@
+{
+  "attempt": "d18-c01-density-cleanup",
+  "recording_start_confirmed": true,
+  "video": "attempts/d18-c01-density-cleanup/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "50.293111",
+      "size": "17085248"
+    }
+  },
+  "elapsed_seconds": 51.361,
+  "stages": [
+    "inset",
+    "final",
+    "hand",
+    "returned"
+  ],
+  "failure": null,
+  "accepted": null
+}

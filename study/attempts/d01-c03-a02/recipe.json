@@ -1,0 +1,10 @@
+{
+ "idea":"Blush moon and pearls",
+ "attempt":"d01-c03-a02",
+ "parent":"d01-c02-a01",
+ "seed":13001,
+ "hypothesis":"Two widely separated, size-graded pairs should frame the moon with deliberate celestial rhythm without the neighbouring-mask damage seen in the rejected compact arc.",
+ "mutation":"Place added pearl contacts at (830,1050) and (650,1840), then shrink them with black annular path radii 108 and 96 respectively. Each new centre is at least 280px from the nearest retained pearl.",
+ "recreate":["d01-c02-a01: all stages","d01-c03-a02: all stages"],
+ "acceptance":"The four points must feel intentionally balanced rather than random clutter; every visible dot must retain a round edge and the crescent must remain the focal point. Reject any clipped point or crowded spacing."
+}

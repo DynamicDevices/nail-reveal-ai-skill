@@ -1,0 +1,17 @@
+{
+  "attempt": "d02-restore-c02-after-c03b",
+  "recording_start_confirmed": true,
+  "video": "attempts/d02-restore-c02-after-c03b/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "10.922778",
+      "size": "4432656"
+    }
+  },
+  "elapsed_seconds": 11.626,
+  "stages": [
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

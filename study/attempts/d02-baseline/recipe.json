@@ -1,0 +1,11 @@
+{
+ "idea":"Scarlet camellia botanical",
+ "idea_id":"d02",
+ "attempt":"d02-baseline",
+ "seed":13002,
+ "concept":"A single scarlet five-petal bloom with a warm yellow centre and a sage stem/leaf pair, on an opaque white field. A botanical motif entirely distinct from the celestial first idea.",
+ "hypothesis":"Broad held-contact petals can form a coherent organic silhouette; overlapping sage paths should frame the blossom without needing unverified fine-point control.",
+ "parameters":{"flower_centre_contact":[550,1080],"petal_ring_radius":110,"petal_count":5,"petal_dwell_seconds":1,"stem_points":[[550,1200],[535,1450],[550,1700],[580,1980]]},
+ "recreate":["d02-clean-base-a02: all stages on a reconciled canvas","d02-baseline: all stages"],
+ "baseline_review":"Assess petal readability, centre/flower proportion, leaf taper, stem weight, spacing and edge cleanliness. This baseline does not count toward the five accepted improvements."
+}

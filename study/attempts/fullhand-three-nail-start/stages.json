@@ -1,0 +1,13 @@
+{
+  "start": [
+    {
+      "type": "tool",
+      "x": 540,
+      "y": 1590
+    },
+    {
+      "type": "wait",
+      "seconds": 2
+    }
+  ]
+}

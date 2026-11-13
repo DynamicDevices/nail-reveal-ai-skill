@@ -1,0 +1,1 @@
+{"stage": "final", "seconds": 6.32, "full": "attempts/d02-restore-c03-after-c04/final-gameplay.png", "preview": "attempts/d02-restore-c03-after-c04/final-nail.png", "crop_origin": [140, 400], "scale": 0.5, "steps": [{"type": "colour", "x": 390, "y": 1560}, {"type": "hold", "x": 550, "y": 800, "t": 1}, {"type": "hold", "x": 550, "y": 1850, "t": 1}]}

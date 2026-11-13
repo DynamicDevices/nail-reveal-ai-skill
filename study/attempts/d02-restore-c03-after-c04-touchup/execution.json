@@ -1,0 +1,17 @@
+{
+  "attempt": "d02-restore-c03-after-c04-touchup",
+  "recording_start_confirmed": true,
+  "video": "attempts/d02-restore-c03-after-c04-touchup/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "6.848011",
+      "size": "2572292"
+    }
+  },
+  "elapsed_seconds": 7.503,
+  "stages": [
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

@@ -1,0 +1,19 @@
+{
+  "attempt": "d07-c03-inset-finishing",
+  "recording_start_confirmed": true,
+  "video": "attempts/d07-c03-inset-finishing/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "29.735089",
+      "size": "13067852"
+    }
+  },
+  "elapsed_seconds": 30.785,
+  "stages": [
+    "gold-inset",
+    "teal-frame",
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

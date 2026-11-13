@@ -1,0 +1,22 @@
+{
+  "attempt": "d17-c04-a02",
+  "recording_start_confirmed": true,
+  "video": "attempts/d17-c04-a02/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "120.604289",
+      "size": "42810892"
+    }
+  },
+  "elapsed_seconds": 122.41,
+  "stages": [
+    "leaf",
+    "stem",
+    "petal",
+    "final",
+    "hand",
+    "returned"
+  ],
+  "failure": null,
+  "accepted": null
+}

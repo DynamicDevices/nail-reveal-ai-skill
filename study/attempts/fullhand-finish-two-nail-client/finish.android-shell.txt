@@ -1,0 +1,1 @@
+input tap 840 2200 && sleep 0.3 && sleep 3 && input motionevent UP 1040 2100 && sleep 0.15 && screencap -p /sdcard/nail-study-stage.png

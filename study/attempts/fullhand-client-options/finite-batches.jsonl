@@ -1,0 +1,1 @@
+{"stage": "options", "seconds": 3.453, "full": "attempts/fullhand-client-options/options-gameplay.png", "preview": "attempts/fullhand-client-options/options-nail.png", "crop_origin": [140, 400], "scale": 0.5, "steps": [{"type": "tool", "x": 540, "y": 2160}, {"type": "wait", "seconds": 2}]}

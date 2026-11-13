@@ -1,0 +1,17 @@
+{
+  "attempt": "d01-c04-a01-modal-recovery",
+  "recording_start_confirmed": true,
+  "video": "attempts/d01-c04-a01-modal-recovery/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "1.847978",
+      "size": "876330"
+    }
+  },
+  "elapsed_seconds": 2.426,
+  "stages": [
+    "palette-closed"
+  ],
+  "failure": null,
+  "accepted": null
+}

@@ -1,0 +1,20 @@
+{
+  "attempt": "d06-restore-c04-after-c05",
+  "recording_start_confirmed": true,
+  "video": "attempts/d06-restore-c04-after-c05/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "45.725900",
+      "size": "16507164"
+    }
+  },
+  "elapsed_seconds": 46.685,
+  "stages": [
+    "remove-amber",
+    "rebuild-coral",
+    "right-trim",
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

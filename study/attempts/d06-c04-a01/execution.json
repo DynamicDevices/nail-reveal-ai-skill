@@ -1,0 +1,21 @@
+{
+  "attempt": "d06-c04-a01",
+  "recording_start_confirmed": true,
+  "video": "attempts/d06-c04-a01/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "55.564289",
+      "size": "22288488"
+    }
+  },
+  "elapsed_seconds": 56.823,
+  "stages": [
+    "clear-two-chips",
+    "plum-chip",
+    "plum-trim",
+    "coral-chip",
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

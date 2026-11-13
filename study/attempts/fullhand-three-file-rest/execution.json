@@ -1,0 +1,18 @@
+{
+  "attempt": "fullhand-three-file-rest",
+  "recording_start_confirmed": true,
+  "video": "attempts/fullhand-three-file-rest/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "29.466956",
+      "size": "12834908"
+    }
+  },
+  "elapsed_seconds": 30.383,
+  "stages": [
+    "thumb",
+    "index"
+  ],
+  "failure": null,
+  "accepted": null
+}

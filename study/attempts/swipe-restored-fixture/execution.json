@@ -1,0 +1,19 @@
+{
+  "attempt": "swipe-restored-fixture",
+  "recording_start_confirmed": true,
+  "video": "attempts/swipe-restored-fixture/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "61.028833",
+      "size": "24096012"
+    }
+  },
+  "elapsed_seconds": 62.281,
+  "stages": [
+    "d14-clean-base-strip",
+    "d14-clean-base-final",
+    "d14-baseline-final"
+  ],
+  "failure": null,
+  "accepted": null
+}

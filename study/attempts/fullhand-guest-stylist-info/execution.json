@@ -1,0 +1,17 @@
+{
+  "attempt": "fullhand-guest-stylist-info",
+  "recording_start_confirmed": true,
+  "video": "attempts/fullhand-guest-stylist-info/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "3.265433",
+      "size": "857444"
+    }
+  },
+  "elapsed_seconds": 3.813,
+  "stages": [
+    "info"
+  ],
+  "failure": null,
+  "accepted": null
+}

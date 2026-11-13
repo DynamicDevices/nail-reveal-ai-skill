@@ -1,0 +1,6 @@
+{
+  "attempt": "d14-restore-c04-after-rain2",
+  "concept": "Golden umbrella in the rain",
+  "hypothesis": "Remove every white mark in black; restore exact shaft and its side masks to undo possible rain-mask overlap. Inspect against c04; no cycle.",
+  "counts_as_cycle": false
+}

@@ -1,0 +1,17 @@
+{
+  "status": "selected-not-executed-ad-gate",
+  "blocking_evidence": "attempts/fullhand-quick-client-brief/brief-full.png: An ad is coming up. No Continue/ad/purchase accepted. Signed scope excludes ads/purchases; Alex's direction needed.",
+  "user_provenance": "Alex: when you are done testing and designing pick the top five designs and do each design on all nails for the full hand",
+  "requirement": "Five complete-hand sets; each repeats one selected design on every nail. Not one mixed accent-nail set.",
+  "selection_evidence": "outputs/study-top-five-review.md; outputs/study-twenty-glazed-designs.png; outputs/study-shortlist-closeups.png",
+  "sets": [
+    {"id":"set-01","idea":"d03","status":"not-started"},
+    {"id":"set-02","idea":"d05","status":"not-started"},
+    {"id":"set-03","idea":"d20","status":"not-started"},
+    {"id":"set-04","idea":"d08","status":"not-started"},
+    {"id":"set-05","idea":"d06","status":"not-started"}
+  ],
+  "before_execution": "Verify live signed coverage including retained original destination game-test scope,subject,Framework,selected A063,expiry/revocation and exclusions. This plan grants no authority. Inspect and map each selected nail; do not assume the current closeup geometry or Hand projection is universal.",
+  "evidence": "Record all physical attempts,actual per-nail/Hand quality checks,recipes and adaptations,failures/restoration,and final glazed full-hand image for each set.",
+  "counting": "Full-hand trials are separate from the 100-change ledger; don't manufacture extra accepted cycles. Final P0 audit remains open."
+}

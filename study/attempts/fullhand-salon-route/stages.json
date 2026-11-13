@@ -1,0 +1,13 @@
+{
+  "salon": [
+    {
+      "type": "tool",
+      "x": 540,
+      "y": 1610
+    },
+    {
+      "type": "wait",
+      "seconds": 2
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"stage": "final", "seconds": 7.532, "full": "attempts/d14-c02-a01/final-gameplay.png", "preview": "attempts/d14-c02-a01/final-nail.png", "crop_origin": [140, 400], "scale": 0.5, "steps": [{"type": "colour", "x": 830, "y": 1560}, {"type": "hold", "x": 400, "y": 1100, "t": 1}, {"type": "hold", "x": 540, "y": 1100, "t": 1}, {"type": "hold", "x": 680, "y": 1100, "t": 1}]}

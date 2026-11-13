@@ -1,0 +1,18 @@
+{
+  "attempt": "d08-c03-collar-cleanup",
+  "recording_start_confirmed": true,
+  "video": "attempts/d08-c03-collar-cleanup/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "45.276178",
+      "size": "5710436"
+    }
+  },
+  "elapsed_seconds": 46.002,
+  "stages": [
+    "collars",
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

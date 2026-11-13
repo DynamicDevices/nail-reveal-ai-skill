@@ -1,0 +1,18 @@
+{
+  "attempt": "d05-c02-a01",
+  "recording_start_confirmed": true,
+  "video": "attempts/d05-c02-a01/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "32.894311",
+      "size": "12741272"
+    }
+  },
+  "elapsed_seconds": 33.785,
+  "stages": [
+    "warm-seam",
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

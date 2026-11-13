@@ -1,0 +1,17 @@
+{
+  "attempt": "fullhand-three-glaze",
+  "recording_start_confirmed": true,
+  "video": "attempts/fullhand-three-glaze/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "5.561200",
+      "size": "2793020"
+    }
+  },
+  "elapsed_seconds": 6.117,
+  "stages": [
+    "glaze"
+  ],
+  "failure": null,
+  "accepted": null
+}

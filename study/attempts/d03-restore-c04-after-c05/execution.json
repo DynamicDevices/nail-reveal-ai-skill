@@ -1,0 +1,17 @@
+{
+  "attempt": "d03-restore-c04-after-c05",
+  "recording_start_confirmed": true,
+  "video": "attempts/d03-restore-c04-after-c05/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "36.176056",
+      "size": "12772236"
+    }
+  },
+  "elapsed_seconds": 37.079,
+  "stages": [
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

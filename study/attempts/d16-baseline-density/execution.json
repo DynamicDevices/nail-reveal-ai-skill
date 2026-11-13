@@ -1,0 +1,17 @@
+{
+  "attempt": "d16-baseline-density",
+  "recording_start_confirmed": true,
+  "video": "attempts/d16-baseline-density/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "19.781056",
+      "size": "5978340"
+    }
+  },
+  "elapsed_seconds": 20.556,
+  "stages": [
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

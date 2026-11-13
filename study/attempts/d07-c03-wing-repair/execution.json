@@ -1,0 +1,17 @@
+{
+  "attempt": "d07-c03-wing-repair",
+  "recording_start_confirmed": true,
+  "video": "attempts/d07-c03-wing-repair/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "26.723689",
+      "size": "10481548"
+    }
+  },
+  "elapsed_seconds": 27.584,
+  "stages": [
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

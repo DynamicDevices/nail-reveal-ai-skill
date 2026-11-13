@@ -1,0 +1,20 @@
+{
+  "attempt": "d05-restore-c03-after-c04",
+  "recording_start_confirmed": true,
+  "video": "attempts/d05-restore-c03-after-c04/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "91.528456",
+      "size": "32990092"
+    }
+  },
+  "elapsed_seconds": 93.035,
+  "stages": [
+    "erase-secondary-seam",
+    "pink-rebuild",
+    "main-warm",
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

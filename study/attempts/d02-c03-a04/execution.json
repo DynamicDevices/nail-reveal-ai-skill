@@ -1,0 +1,21 @@
+{
+  "attempt": "d02-c03-a04",
+  "recording_start_confirmed": true,
+  "video": "attempts/d02-c03-a04/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "93.688122",
+      "size": "33099696"
+    }
+  },
+  "elapsed_seconds": 95.149,
+  "stages": [
+    "sage-ring",
+    "white-mask",
+    "petals",
+    "yellow-centre",
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

@@ -1,0 +1,17 @@
+{
+  "attempt": "restore-d11-c03-after-round-holes",
+  "recording_start_confirmed": true,
+  "video": "attempts/restore-d11-c03-after-round-holes/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "13.952567",
+      "size": "6090452"
+    }
+  },
+  "elapsed_seconds": 14.728,
+  "stages": [
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

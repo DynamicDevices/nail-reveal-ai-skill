@@ -1,0 +1,2 @@
+from prepare_d14 import *
+save('d14-c04-a01',{'hook':[gold,ellipse(480,1440,60,35),path([[x,1440] for x in range(420,541,10)]),black,ellipse(480,1370,60,35)],'final':[gold,path([[540,y] for y in range(1030,1441,10)]),black,path([[430,y] for y in range(1100,1381,10)]),path([[650,y] for y in range(1100,1541,10)])]},'A trimmed golden crescent connects to the shaft as a left-facing J handle; preserve open black interior and an even join.',True)

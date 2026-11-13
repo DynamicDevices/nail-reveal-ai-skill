@@ -1,0 +1,1 @@
+{"purpose":"Restore actual previous best after rejected d01-c04-a01","restores":"d01-c03-a02","counts_as_cycle":false,"recreate":["d01-c02-a01: all stages","d01-c03-a02: all stages"],"verification":"Visually compare final recorded capture with d01-c03-a02 before any new candidate."}

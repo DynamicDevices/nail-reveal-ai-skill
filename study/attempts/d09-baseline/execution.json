@@ -1,0 +1,18 @@
+{
+  "attempt": "d09-baseline",
+  "recording_start_confirmed": true,
+  "video": "attempts/d09-baseline/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "39.922889",
+      "size": "12712568"
+    }
+  },
+  "elapsed_seconds": 40.844,
+  "stages": [
+    "short-tower",
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}
