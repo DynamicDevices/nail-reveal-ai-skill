@@ -2,10 +2,11 @@
 name: nail-reveal
 description: Play Nail Reveal on an authorised Android phone using ADB, with efficient recorded batches and screenshot-grounded nail art.
 license: MIT
-compatibility: Requires a shell, Android Platform Tools (adb), an authorised Android phone with Nail Reveal, and screenshot inspection.
+compatibility: Requires the pinned app-playtesting skill in dependencies.json, a shell, ADB, an authorised Android phone with Nail Reveal, and screenshot inspection.
 metadata:
   status: development-draft
   tested-game-version: "1.25"
+  dependency-manifest: dependencies.json
 ---
 
 # Nail Reveal
@@ -14,27 +15,25 @@ Use when the human asks you to play or make nail art in Nail Reveal.
 This skill does not grant phone access, purchases, account changes or publication.
 If you cannot run ADB or inspect screenshots, explain that limitation to the human.
 
+This skill requires the [general playtesting skill](references/general-playtesting.md)
+at the revision in `dependencies.json`. Verify that it is available and read its
+entrypoint and relevant Android references before input. If it is missing, stop
+and explain how to install it; do not use an old standalone copy as a fallback.
+The general skill owns testing, setup, execution, recovery, reporting and
+experiment planning. This skill owns only Nail Reveal knowledge and calibration.
+
 ## Start here
 
-1. Have the owner connect and authorise their intended phone. Select an explicit
-   serial from `adb devices -l`; never use an implicit default or publish serials.
+1. Load the required dependency and use its canonical Android setup/execution
+   procedure, including explicit device selection and its supported fallback.
 2. Inspect the current game and physical screenshot dimensions. Read the client
    brief, selected tool and stage card; do not infer state from a rotating hint.
-3. Start a private screen recording before experiments and confirm it is running
-   once. Preserve failures and disclose gaps. Sharing is a separate decision.
+3. Record experiments using the dependency's procedure. This game's retained
+   experiments are silent; missing footage is not recorded evidence.
 4. Read [tested controls](references/controls.md) for the current stage and
    [efficient execution](references/optimisation.md) before painting.
-5. Keep one ADB control shell open across finite batches. Capture screenshots on
-   a separate binary-safe connection. Inspect after stage/modal/tool transitions,
-   not after every known stroke. Stop dependent actions if a prerequisite fails.
-6. Treat speedups as optional. Follow the [fallback ladder](references/optimisation.md#fallback-ladder)
-   when a platform or device cannot support them. Reconcile partial effects first;
-   never replay a whole batch merely because its completion marker was lost.
-7. After known actions, inspect only the relevant image region: nail silhouette
-   for painting, palette for colour, or dialog for its choices. Retain the full
-   capture and crop/scale mapping. Use full-frame inspection for initial state,
-   unfamiliar transitions, suspected dialogs or uncertainty. See
-   [focused image inspection](references/optimisation.md#focused-image-inspection).
+5. Apply that testing method to the chosen recipe. Read only the references
+   relevant to the current task; do not load the full study for a simple test.
 
 ## Important findings
 
@@ -60,38 +59,36 @@ If you cannot run ADB or inspect screenshots, explain that limitation to the hum
   holds produced dots; 0.05-second holds did not in this test. Longer holds
   increased density more than size. These are observations, not a minimum-time
   guarantee; avoid leaving DOWN active while thinking or running other tools.
-- Use explicit pointer UP even after a failed continuous-contact experiment.
-  Do not replay a partially completed batch without checking the screen.
-- The portable baseline is explicit-serial ADB taps and individual held swipes,
-  original PNG screenshots, and human inspection when agent image access fails.
-  Persistent shells, continuous paths and image resizing are optional speedups.
-- Informational, purchase, ad, consent and account dialogs are different states.
-  Read before dismissing; stop for human help if the choice is unclear.
+- Follow the dependency's contact-release and partial-action recovery procedure;
+  no game recipe overrides its safety or dialog boundaries.
 - Multi-touch rotation and brush-width adjustment remain unverified. Parallel
   ADB swipes are not a verified two-finger gesture.
 
-## Exercises and remaining work
+## Choose a Nail Reveal task
 
-Start with a single coat, then bands, then the [tested French tricolour recipe](references/recipes.md).
-The [first recorded UK-flag recipe](references/uk-flag.md) produced a recognisable,
-stylised Union Jack. Exact proportions, offset diagonals and curing remain unverified.
-The [Japan and Brazil attempts](references/japan-brazil.md) added round marks,
-overlapping recoats, diamond fills and outline smoothing. Brazil uses approximate
-colours and has no stars or lettering. These designs were not cured.
-For non-flag art, use the [recorded coat/cut/repaint designs](references/design-lab.md):
-a negative-space crescent, a five-petal flower, and a sunset inlay with mountains.
-Keep painting-stage results separate from unverified gel/cure/top-coat behaviour.
-Read [Linux/Windows setup](references/setup.md) before first use. This experimental
-skill uses ordinary ADB; no packaged agent-specific helper or daemon is required.
-Windows/device-specific behaviour still needs live validation.
+| Task | Read |
+| --- | --- |
+| First connection / portable fallback | [Linux/Windows setup](references/setup.md) and [ADB execution](references/optimisation.md) |
+| Identify stage/tool effects | [Controls](references/controls.md) and [contact/cleanup experiments](references/paint-and-tools.md) |
+| Single coat, bands, French tricolour | [Starter recipes](references/recipes.md) |
+| UK, Japan or Brazil flags | [UK](references/uk-flag.md) or [Japan/Brazil](references/japan-brazil.md) |
+| Crescent, flower or sunset | [Coat/cut/repaint design lab](references/design-lab.md) |
+| Iterative art and quality assessment | [Generative study](references/generative-study.md) |
 
-For more ambitious work, read [generative design and quality checks](references/generative-study.md).
-The recorded study has20 starting ideas and100 accepted-change records, with
-rejections, restorations and glaze captures. These counts do not certify beauty:
-some motifs remain weak, and the five requested full-hand sets are unfinished.
-Never count a partial manicure as a full hand or a sketch as an executed design.
+Read each recipe's limits: earlier flag/design-lab tests were not cured; UK
+proportions and Brazil's colours/details are approximate. Later study glaze
+captures do not retroactively cure those tests. The study's20 ideas and100
+accepted-change records do not certify beauty; outcomes are uneven and the five
+full-hand sets remain unfinished. A sketch or partial manicure is not execution
+or a full hand. Windows/device-specific replay remains untested; no daemon is
+required. Keep exact recipes and historical evidence in their linked references.
 
 Keep original photos, recordings, device/account identifiers and authorisation
 material private. MIT covers our original instructions/code, not the game/assets.
+
+For feedback to the developer, distinguish these observed game results from
+usability interpretations, disengagement hypotheses and untested feature ideas.
+Use the general report/experiment templates; no player study or app code change
+is authorised by a playtest request alone.
 
 Assisted-by: Briar
