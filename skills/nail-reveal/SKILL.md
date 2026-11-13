@@ -2,10 +2,11 @@
 name: nail-reveal
 description: Play Nail Reveal on an authorised Android phone using ADB, with efficient recorded batches and screenshot-grounded nail art.
 license: MIT
-compatibility: Requires a shell, Android Platform Tools (adb), an authorised Android phone with Nail Reveal, and screenshot inspection.
+compatibility: Requires the pinned app-playtesting skill in dependencies.json, a shell, ADB, an authorised Android phone with Nail Reveal, and screenshot inspection.
 metadata:
   status: development-draft
   tested-game-version: "1.25"
+  dependency-manifest: dependencies.json
 ---
 
 # Nail Reveal
@@ -14,31 +15,25 @@ Use when the human asks you to play or make nail art in Nail Reveal.
 This skill does not grant phone access, purchases, account changes or publication.
 If you cannot run ADB or inspect screenshots, explain that limitation to the human.
 
-This is the game-specific companion to the [general playtesting skill](references/general-playtesting.md).
-Use that skill for controlled exploration, developer reports, disengagement
-hypotheses, creative proposals and experiment planning. Keep Nail Reveal controls,
-calibration and reproduction evidence here. Do not load the full study for a
-simple test: choose the relevant reference below.
+This skill requires the [general playtesting skill](references/general-playtesting.md)
+at the revision in `dependencies.json`. Verify that it is available and read its
+entrypoint and relevant Android references before input. If it is missing, stop
+and explain how to install it; do not use an old standalone copy as a fallback.
+The general skill owns testing, setup, execution, recovery, reporting and
+experiment planning. This skill owns only Nail Reveal knowledge and calibration.
 
 ## Start here
 
-1. Have the owner connect and authorise their intended phone. Select an explicit
-   serial from `adb devices -l`; never use an implicit default or publish serials.
+1. Load the required dependency and use its canonical Android setup/execution
+   procedure, including explicit device selection and its supported fallback.
 2. Inspect the current game and physical screenshot dimensions. Read the client
    brief, selected tool and stage card; do not infer state from a rotating hint.
-3. Start a private screen recording before experiments and confirm it is running
-   once. Preserve failures and disclose gaps. Sharing is a separate decision.
+3. Record experiments using the dependency's procedure. This game's retained
+   experiments are silent; missing footage is not recorded evidence.
 4. Read [tested controls](references/controls.md) for the current stage and
    [efficient execution](references/optimisation.md) before painting.
-5. Apply the general observe/test/verify method, with [this game's ADB implementation](references/optimisation.md):
-   finite batches in one control shell, separate binary-safe capture, relevant
-   crops with original/mapping retained, and full-view checks for transitions or
-   uncertainty. Optional speedups must have a working fallback. Stop dependent
-   input on failed prerequisites; inspect partial effects before any replay.
-
-The local setup and fallback references remain usable without installing the
-general skill. They preserve the tested device procedure, not a claim that
-generic coordinates or timing transfer to another game.
+5. Apply that testing method to the chosen recipe. Read only the references
+   relevant to the current task; do not load the full study for a simple test.
 
 ## Important findings
 
@@ -64,13 +59,8 @@ generic coordinates or timing transfer to another game.
   holds produced dots; 0.05-second holds did not in this test. Longer holds
   increased density more than size. These are observations, not a minimum-time
   guarantee; avoid leaving DOWN active while thinking or running other tools.
-- Use explicit pointer UP even after a failed continuous-contact experiment.
-  Do not replay a partially completed batch without checking the screen.
-- The portable baseline is explicit-serial ADB taps and individual held swipes,
-  original PNG screenshots, and human inspection when agent image access fails.
-  Persistent shells, continuous paths and image resizing are optional speedups.
-- Informational, purchase, ad, consent and account dialogs are different states.
-  Read before dismissing; stop for human help if the choice is unclear.
+- Follow the dependency's contact-release and partial-action recovery procedure;
+  no game recipe overrides its safety or dialog boundaries.
 - Multi-touch rotation and brush-width adjustment remain unverified. Parallel
   ADB swipes are not a verified two-finger gesture.
 
