@@ -43,3 +43,18 @@ later designs. Linux was tested; Windows and other-device compatibility remain
 untested. No independent integration review is claimed by this test record.
 
 Assisted-by: Briar.
+
+## General-skill companion checks
+
+Run `python3 -B tests/validate_general_skill_link.py` alongside the existing
+content tests. Its four checks cover the required dependency manifest/pinned links,
+absence of duplicated generic procedure, honest live-test limits and retention of
+game findings. It does not drive a phone
+or prove cross-app/Claude compatibility. The study, media and recreation recipes
+are unchanged by this companion refactor.
+
+The earlier companion scan had score 7/LOW with the already triaged replay-
+prohibition false positive. The later required-dependency refactor removes that
+copied generic procedure from the game skill; it is owned in the general skill.
+Static scans are not independent repository approval. Offline tests do not
+certify app behaviour, Claude compatibility or player engagement.

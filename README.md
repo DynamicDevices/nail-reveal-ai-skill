@@ -5,6 +5,18 @@ A portable [Agent Skills](https://agentskills.io/specification) guide to playing
 on an Android phone using ADB. It records what Alex and Briar learned while
 trying flags, testing the tools and making nail art.
 
+For testing other games or apps, start with the separate
+[general playtesting skill](https://github.com/DynamicDevices/game-playtesting-skill/tree/866fa0fa1e334ca82dfd4f867934704bbd62b3c2).
+It contains the shared investigation method, Claude setup, developer reports,
+creative proposals and experiment planning. This repository remains the Nail
+Reveal-specific companion: tested controls, stage behaviour, timings, recipes
+and recorded evidence. See [how the two skills fit together](skills/nail-reveal/references/general-playtesting.md).
+The general skill is required, not optional: its pinned revision/path is recorded
+in [dependencies.json](skills/nail-reveal/dependencies.json). Shared setup,
+execution, recovery and reporting have one canonical owner there.
+The general package is a development candidate, not yet validated live in Claude
+or on a second app. Its source revision is pinned here for reproducibility.
+
 ![Twenty recorded glazed single-nail designs](study/guide/study-twenty-glazed-designs.png)
 
 The [generative design study](study/README.md) contains20 starting ideas,
@@ -25,13 +37,16 @@ uses a stripped window filled with yellow. None of these trials was cured.
 
 ## Get started
 
-1. Read [Linux and Windows setup](skills/nail-reveal/references/setup.md).
-2. Give your AI the [skill entrypoint](skills/nail-reveal/SKILL.md), or add the
+1. Install the pinned general skill following [dependency installation](skills/nail-reveal/references/general-playtesting.md).
+   If it is missing, stop before device input; dependencies are not auto-installed.
+2. Read [Nail Reveal configuration](skills/nail-reveal/references/setup.md), which
+   links to the general skill's canonical Android setup.
+3. Give your AI the [skill entrypoint](skills/nail-reveal/SKILL.md), or add the
    `skills/nail-reveal` directory using your agent's supported skills mechanism.
-3. Have the phone's owner authorise access. The agent needs a shell, ADB and a
+4. Have the phone's owner authorise access. The agent needs a shell, ADB and a
    way to inspect screenshots; this repository does not give those abilities
    to an AI that lacks them.
-4. Start with a single coat, then a simple flag. Record attempts, inspect the
+5. Start with a single coat, then a simple flag. Record attempts, inspect the
    current stage and map the actual nail before replaying coordinates.
 
 There is no required Node daemon, agent vendor, paid service or privileged input

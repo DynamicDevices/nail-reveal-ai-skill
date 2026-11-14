@@ -1,0 +1,12 @@
+{
+  "schema": "skill-dependencies/v1",
+  "dependencies": [
+    {
+      "name": "app-playtesting",
+      "repository": "https://github.com/DynamicDevices/game-playtesting-skill",
+      "revision": "866fa0fa1e334ca82dfd4f867934704bbd62b3c2",
+      "path": "skills/app-playtesting",
+      "required": true
+    }
+  ]
+}
