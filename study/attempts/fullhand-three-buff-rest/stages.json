@@ -1,0 +1,30 @@
+{
+  "index": [
+    {
+      "type": "tool",
+      "x": 990,
+      "y": 1440
+    },
+    {
+      "type": "wait",
+      "seconds": 1
+    },
+    {
+      "type": "coat-v2"
+    }
+  ],
+  "middle": [
+    {
+      "type": "tool",
+      "x": 990,
+      "y": 1440
+    },
+    {
+      "type": "wait",
+      "seconds": 1
+    },
+    {
+      "type": "coat-v2"
+    }
+  ]
+}

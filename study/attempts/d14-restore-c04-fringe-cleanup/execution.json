@@ -1,0 +1,18 @@
+{
+  "attempt": "d14-restore-c04-fringe-cleanup",
+  "recording_start_confirmed": true,
+  "video": "attempts/d14-restore-c04-fringe-cleanup/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "60.647211",
+      "size": "20399216"
+    }
+  },
+  "elapsed_seconds": 61.873,
+  "stages": [
+    "cover-fringes",
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

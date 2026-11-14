@@ -1,0 +1,18 @@
+{
+  "attempt": "d08-c04-a01",
+  "recording_start_confirmed": true,
+  "video": "attempts/d08-c04-a01/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "13.199333",
+      "size": "5694888"
+    }
+  },
+  "elapsed_seconds": 13.969,
+  "stages": [
+    "plum-shadows",
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

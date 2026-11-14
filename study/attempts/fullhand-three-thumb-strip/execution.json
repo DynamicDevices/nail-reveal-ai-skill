@@ -1,0 +1,17 @@
+{
+  "attempt": "fullhand-three-thumb-strip",
+  "recording_start_confirmed": true,
+  "video": "attempts/fullhand-three-thumb-strip/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "13.532056",
+      "size": "6368760"
+    }
+  },
+  "elapsed_seconds": 14.287,
+  "stages": [
+    "strip"
+  ],
+  "failure": null,
+  "accepted": null
+}

@@ -1,0 +1,22 @@
+{
+  "attempt": "restore-d11-c03-full",
+  "recording_start_confirmed": true,
+  "video": "attempts/restore-d11-c03-full/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "82.380656",
+      "size": "32974572"
+    }
+  },
+  "elapsed_seconds": 83.828,
+  "stages": [
+    "loops",
+    "joins",
+    "masks",
+    "tails",
+    "gap",
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

@@ -1,0 +1,17 @@
+{
+  "attempt": "d04-c01-edge-cleanup",
+  "recording_start_confirmed": true,
+  "video": "attempts/d04-c01-edge-cleanup/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "13.702722",
+      "size": "5103408"
+    }
+  },
+  "elapsed_seconds": 14.458,
+  "stages": [
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

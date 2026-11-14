@@ -1,0 +1,6 @@
+{
+  "attempt": "swipe-candidate-native",
+  "concept": "Golden umbrella in the rain",
+  "hypothesis": "Candidate: same rows/colour, native1200ms interpolation, no added endpoint dwells. Assess completeness/edge quality and actual stage time, not assumed equivalent contacts; no cycle.",
+  "counts_as_cycle": false
+}

@@ -1,0 +1,17 @@
+{
+  "attempt": "fullhand-next-client",
+  "recording_start_confirmed": true,
+  "video": "attempts/fullhand-next-client/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "4.157511",
+      "size": "1432564"
+    }
+  },
+  "elapsed_seconds": 4.754,
+  "stages": [
+    "next"
+  ],
+  "failure": null,
+  "accepted": null
+}

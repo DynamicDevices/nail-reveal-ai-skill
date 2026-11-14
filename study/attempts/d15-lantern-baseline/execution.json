@@ -1,0 +1,17 @@
+{
+  "attempt": "d15-lantern-baseline",
+  "recording_start_confirmed": true,
+  "video": "attempts/d15-lantern-baseline/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "20.503144",
+      "size": "7846528"
+    }
+  },
+  "elapsed_seconds": 21.319,
+  "stages": [
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

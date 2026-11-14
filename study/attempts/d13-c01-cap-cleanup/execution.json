@@ -1,0 +1,17 @@
+{
+  "attempt": "d13-c01-cap-cleanup",
+  "recording_start_confirmed": true,
+  "video": "attempts/d13-c01-cap-cleanup/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "31.588800",
+      "size": "10364936"
+    }
+  },
+  "elapsed_seconds": 32.446,
+  "stages": [
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

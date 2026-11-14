@@ -1,0 +1,19 @@
+{
+  "attempt": "d20-c02-a01",
+  "recording_start_confirmed": true,
+  "video": "attempts/d20-c02-a01/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "17.648089",
+      "size": "5453488"
+    }
+  },
+  "elapsed_seconds": 18.411,
+  "stages": [
+    "final",
+    "hand",
+    "returned"
+  ],
+  "failure": null,
+  "accepted": null
+}

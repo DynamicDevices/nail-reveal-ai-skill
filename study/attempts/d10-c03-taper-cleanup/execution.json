@@ -1,0 +1,17 @@
+{
+  "attempt": "d10-c03-taper-cleanup",
+  "recording_start_confirmed": true,
+  "video": "attempts/d10-c03-taper-cleanup/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "17.915522",
+      "size": "6096652"
+    }
+  },
+  "elapsed_seconds": 18.719,
+  "stages": [
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

@@ -1,0 +1,17 @@
+{
+  "attempt": "fullhand-salon-route",
+  "recording_start_confirmed": true,
+  "video": "attempts/fullhand-salon-route/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "4.210956",
+      "size": "1500048"
+    }
+  },
+  "elapsed_seconds": 4.784,
+  "stages": [
+    "salon"
+  ],
+  "failure": null,
+  "accepted": null
+}

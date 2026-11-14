@@ -1,0 +1,17 @@
+{
+  "attempt": "d15-glaze",
+  "recording_start_confirmed": true,
+  "video": "attempts/d15-glaze/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "5.566122",
+      "size": "2329392"
+    }
+  },
+  "elapsed_seconds": 6.18,
+  "stages": [
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

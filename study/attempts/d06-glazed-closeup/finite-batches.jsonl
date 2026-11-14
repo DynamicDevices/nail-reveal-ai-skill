@@ -1,0 +1,1 @@
+{"stage": "final", "seconds": 4.437, "full": "attempts/d06-glazed-closeup/final-gameplay.png", "preview": "attempts/d06-glazed-closeup/final-nail.png", "crop_origin": [140, 400], "scale": 0.5, "steps": [{"type": "tool", "x": 380, "y": 2200}, {"type": "wait", "seconds": 3}]}

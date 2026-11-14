@@ -1,0 +1,1 @@
+input tap 230 2200 && sleep 0.7 && input tap 830 1560 && sleep 0.7 && input tap 540 1740 && sleep 0.7 && input swipe 240 1130 840 1130 1200 && input swipe 240 1210 840 1210 1200 && input swipe 240 1290 840 1290 1200 && input swipe 240 1130 840 1130 1200 && input motionevent UP 1040 2100 && sleep 0.15 && screencap -p /sdcard/nail-study-stage.png

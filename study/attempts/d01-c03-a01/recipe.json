@@ -1,0 +1,10 @@
+{
+  "idea": "Blush moon and pearls",
+  "attempt": "d01-c03-a01",
+  "parent": "d01-c02-a01",
+  "seed": 13001,
+  "hypothesis": "Two progressively smaller pearls below/right of the upper pearl can establish a deliberate constellation rhythm and connect the isolated upper accent to the crescent.",
+  "mutation": "Add white held contacts at (820,1000) and (840,1200); reduce them with 40-segment black annuli of path radii 108 and 96 respectively. Preserve existing moon and pearls.",
+  "recreate": ["d01-c02-a01: all stages", "d01-c03-a01: all stages"],
+  "acceptance": "Graduated dots must read as an elegant, coherent arc, not clutter; moon tips and silhouette must remain undamaged. Reject if the masking harms the moon or sizes are uneven/unreadable."
+}

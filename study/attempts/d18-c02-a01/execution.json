@@ -1,0 +1,20 @@
+{
+  "attempt": "d18-c02-a01",
+  "recording_start_confirmed": true,
+  "video": "attempts/d18-c02-a01/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "62.527044",
+      "size": "17610536"
+    }
+  },
+  "elapsed_seconds": 63.614,
+  "stages": [
+    "neck",
+    "final",
+    "hand",
+    "returned"
+  ],
+  "failure": null,
+  "accepted": null
+}

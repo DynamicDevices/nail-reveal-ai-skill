@@ -1,0 +1,18 @@
+{
+  "attempt": "fullhand-three-buff-rest",
+  "recording_start_confirmed": true,
+  "video": "attempts/fullhand-three-buff-rest/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "29.087022",
+      "size": "13857076"
+    }
+  },
+  "elapsed_seconds": 30.088,
+  "stages": [
+    "index",
+    "middle"
+  ],
+  "failure": null,
+  "accepted": null
+}

@@ -1,0 +1,18 @@
+{
+  "attempt": "d02-c02-a01",
+  "recording_start_confirmed": true,
+  "video": "attempts/d02-c02-a01/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "19.959544",
+      "size": "6815184"
+    }
+  },
+  "elapsed_seconds": 20.689,
+  "stages": [
+    "slim-stalk",
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

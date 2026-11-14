@@ -1,0 +1,16 @@
+case,requested_dwell_seconds,movement_pixels,blue_pixels,mean_blue_minus_red,notes
+stationary_short,0.05,0,0,0.0000255226,no visible dot
+moving_short,0.05,20,0,0,no visible dot
+stationary_medium,0.25,0,17878,0.146686,soft dot
+moving_medium,0.25,20,18838,0.165042,soft slightly elongated dot
+stationary_long,1,0,19834,0.189993,denser dot
+moving_long,1,20,22968,0.218120,denser elongated dot
+buffer_control_before,0.25,0,18672,0.146131,matched control
+buffer_control_after,,,18672,0.146131,no observed change
+file_control_after,,,18672,0.146131,no observed change
+drill_control_before,0.25,0,18499,0.148821,matched control
+drill_control_after,,,0,-0.164042,white base also removed
+drill_light_short,0.05,0,18672,,no change and zero pink pixels
+drill_light_medium,0.25,0,0,,23695 pink pixels exposed
+brush_cleanup_before,,,22570,,isolated 210x200 crop and zero pink pixels
+brush_cleanup_after,1,0,14576,,same crop and zero pink pixels

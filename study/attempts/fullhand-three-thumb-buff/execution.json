@@ -1,0 +1,17 @@
+{
+  "attempt": "fullhand-three-thumb-buff",
+  "recording_start_confirmed": true,
+  "video": "attempts/fullhand-three-thumb-buff/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "13.925511",
+      "size": "6553448"
+    }
+  },
+  "elapsed_seconds": 14.696,
+  "stages": [
+    "buff"
+  ],
+  "failure": null,
+  "accepted": null
+}

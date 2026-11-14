@@ -1,0 +1,21 @@
+{
+  "attempt": "d20-c03-a02",
+  "recording_start_confirmed": true,
+  "video": "attempts/d20-c03-a02/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "99.062811",
+      "size": "36601472"
+    }
+  },
+  "elapsed_seconds": 100.703,
+  "stages": [
+    "orbit",
+    "globe",
+    "final",
+    "hand",
+    "returned"
+  ],
+  "failure": null,
+  "accepted": null
+}

@@ -1,0 +1,1 @@
+{"stage": "start", "seconds": 4.102, "full": "attempts/fullhand-three-nail-start/start-gameplay.png", "preview": "attempts/fullhand-three-nail-start/start-nail.png", "crop_origin": [140, 400], "scale": 0.5, "steps": [{"type": "tool", "x": 540, "y": 1590}, {"type": "wait", "seconds": 2}]}

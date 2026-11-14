@@ -1,0 +1,10 @@
+{
+  "idea": "Blush moon and pearls",
+  "attempt": "d01-c02-a01",
+  "parent": "d01-c01-a01",
+  "seed": 13001,
+  "hypothesis": "A smoothly sampled crescent shifted slightly right/down should have a more intentional contour and better visual balance, retaining cycle 1's subordinate pearls.",
+  "mutation": "Rebuild independently: black base; 48-segment drilled filled loop centred (570,1270), radius 115; black masking loop centred (655,1220), radius 100; reproduce and shrink both pearls.",
+  "recreate": ["d01-c02-a01: all stages in insertion order"],
+  "acceptance": "Actual crescent contour must be visibly smoother and composition better balanced than cycle 1, without harming pearl hierarchy. Reject if broad tool accumulation introduces shape defects."
+}

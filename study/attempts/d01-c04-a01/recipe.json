@@ -1,0 +1,10 @@
+{
+ "idea":"Blush moon and pearls",
+ "attempt":"d01-c04-a01",
+ "parent":"d01-c03-a02",
+ "seed":13001,
+ "hypothesis":"Turning the two larger white pearls into four-point glints while retaining the smaller round satellites should make the celestial motif more intentional and refined.",
+ "mutation":"Black stationary 0.65-second contacts at the four diagonal offsets (+/-80,+/-80) around each large pearl centre: (700,800) and (365,1800). These overlap the white discs' diagonal edges without deliberately covering their axial tips.",
+ "recreate":["d01-c02-a01: all stages","d01-c03-a02: all stages","d01-c04-a01: final"],
+ "acceptance":"Both large marks must become clean, readable four-point glints without erasing neighbouring marks. Reject if they become ragged fragments, hard-to-read pinholes, or distract from the moon."
+}

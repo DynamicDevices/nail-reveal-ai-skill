@@ -1,0 +1,1 @@
+{"stage": "glaze", "seconds": 5.068, "full": "attempts/fullhand-three-glaze/glaze-gameplay.png", "preview": "attempts/fullhand-three-glaze/glaze-nail.png", "crop_origin": [140, 400], "scale": 0.5, "steps": [{"type": "tool", "x": 690, "y": 2200}, {"type": "wait", "seconds": 3}]}

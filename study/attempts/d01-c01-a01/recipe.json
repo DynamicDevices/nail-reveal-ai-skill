@@ -1,0 +1,10 @@
+{
+  "idea": "Blush moon and pearls",
+  "attempt": "d01-c01-a01",
+  "parent": "d01-baseline",
+  "seed": 13001,
+  "hypothesis": "The oversized white discs compete with the moon. Black annular masks should reduce them to small, subordinate pearls and make the composition more restrained.",
+  "mutation": "At each existing pearl contact centre, trace a 40-segment black ring of path radius 124px, without crossing its centre. No moon or colour change.",
+  "recreate": ["d01-baseline: all stages", "d01-c01-a01: small-pearls-final"],
+  "acceptance": "Both smaller marks must remain cleanly readable, and the crescent must become the clear focal point without visible ring artifacts. Visual review required; no metric automatically accepts."
+}

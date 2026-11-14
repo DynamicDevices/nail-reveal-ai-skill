@@ -1,0 +1,1 @@
+{"stage": "info", "seconds": 2.743, "full": "attempts/fullhand-guest-stylist-info/info-gameplay.png", "preview": "attempts/fullhand-guest-stylist-info/info-nail.png", "crop_origin": [140, 400], "scale": 0.5, "steps": [{"type": "tool", "x": 540, "y": 240}, {"type": "wait", "seconds": 1}]}

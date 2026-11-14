@@ -1,0 +1,1 @@
+{"stage": "endpoint-complete-white", "seconds": 15.32, "full": "attempts/d02-clean-base-a02/endpoint-complete-white-gameplay.png", "preview": "attempts/d02-clean-base-a02/endpoint-complete-white-nail.png", "crop_origin": [140, 400], "scale": 0.5, "steps": [{"type": "tool", "x": 100, "y": 1260}, {"type": "colour", "x": 390, "y": 1560}, {"type": "coat-v2"}]}

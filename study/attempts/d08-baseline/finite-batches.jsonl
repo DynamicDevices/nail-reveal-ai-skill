@@ -1,0 +1,1 @@
+{"stage": "final", "seconds": 6.17, "full": "attempts/d08-baseline/final-gameplay.png", "preview": "attempts/d08-baseline/final-nail.png", "crop_origin": [140, 400], "scale": 0.5, "steps": [{"type": "colour", "x": 830, "y": 1115}, {"type": "hold", "x": 350, "y": 1350, "t": 1}, {"type": "hold", "x": 730, "y": 1600, "t": 1}]}

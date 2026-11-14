@@ -1,0 +1,17 @@
+{
+  "attempt": "fullhand-three-middle-colour",
+  "recording_start_confirmed": true,
+  "video": "attempts/fullhand-three-middle-colour/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "15.915867",
+      "size": "6292108"
+    }
+  },
+  "elapsed_seconds": 16.679,
+  "stages": [
+    "colour"
+  ],
+  "failure": null,
+  "accepted": null
+}

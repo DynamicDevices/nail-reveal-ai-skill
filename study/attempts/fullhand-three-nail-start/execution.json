@@ -1,0 +1,17 @@
+{
+  "attempt": "fullhand-three-nail-start",
+  "recording_start_confirmed": true,
+  "video": "attempts/fullhand-three-nail-start/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "4.569922",
+      "size": "1416168"
+    }
+  },
+  "elapsed_seconds": 5.174,
+  "stages": [
+    "start"
+  ],
+  "failure": null,
+  "accepted": null
+}

@@ -1,0 +1,1 @@
+{"stage": "salon", "seconds": 3.635, "full": "attempts/fullhand-salon-route/salon-gameplay.png", "preview": "attempts/fullhand-salon-route/salon-nail.png", "crop_origin": [140, 400], "scale": 0.5, "steps": [{"type": "tool", "x": 540, "y": 1610}, {"type": "wait", "seconds": 2}]}

@@ -1,0 +1,1 @@
+{"attempt":"restore-d11-c03-full","target":"d11-c03-a01","purpose":"Local offset repairs left a faint arc and slight edge changes. Reconstruct original solid loops/joins/masks/tails/gap/knot using exact tested recipes before new candidate.","counts_as_cycle":false}

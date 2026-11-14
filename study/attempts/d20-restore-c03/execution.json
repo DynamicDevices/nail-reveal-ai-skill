@@ -1,0 +1,19 @@
+{
+  "attempt": "d20-restore-c03",
+  "recording_start_confirmed": true,
+  "video": "attempts/d20-restore-c03/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "22.500633",
+      "size": "6309876"
+    }
+  },
+  "elapsed_seconds": 23.278,
+  "stages": [
+    "final",
+    "hand",
+    "returned"
+  ],
+  "failure": null,
+  "accepted": null
+}

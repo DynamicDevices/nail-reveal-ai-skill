@@ -1,0 +1,1 @@
+{"attempt":"d13-c01-cap-cleanup","parent":"d13-c01-a01","hypothesis":"Fill the whole discarded upper region with overlapping plum rows, not one finite band; eliminate detached cap while keeping flat cup rim.","parameters":{"rows":[970,1050,1130],"x_range":[250,820],"sample_spacing":10,"passes":2},"counts_as_cycle":false}

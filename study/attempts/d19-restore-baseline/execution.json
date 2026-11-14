@@ -1,0 +1,21 @@
+{
+  "attempt": "d19-restore-baseline",
+  "recording_start_confirmed": true,
+  "video": "attempts/d19-restore-baseline/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "78.443000",
+      "size": "19306624"
+    }
+  },
+  "elapsed_seconds": 79.584,
+  "stages": [
+    "strip",
+    "base",
+    "final",
+    "hand",
+    "returned"
+  ],
+  "failure": null,
+  "accepted": null
+}

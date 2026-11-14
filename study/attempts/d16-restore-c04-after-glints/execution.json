@@ -1,0 +1,26 @@
+{
+  "attempt": "d16-restore-c04-after-glints",
+  "recording_start_confirmed": true,
+  "video": "attempts/d16-restore-c04-after-glints/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "146.572556",
+      "size": "52577572"
+    }
+  },
+  "elapsed_seconds": 148.556,
+  "stages": [
+    "d16-clean-base-strip",
+    "d16-clean-base-final",
+    "d16-baseline-final",
+    "d16-baseline-density-final",
+    "d16-c01-a01-final",
+    "d16-c02-a01-final",
+    "d16-c03-a01-final",
+    "d16-c04-a01-final",
+    "hand",
+    "returned"
+  ],
+  "failure": null,
+  "accepted": null
+}

@@ -1,0 +1,46 @@
+{
+  "slot2": [
+    {
+      "type": "tool",
+      "x": 990,
+      "y": 1440
+    },
+    {
+      "type": "wait",
+      "seconds": 2
+    }
+  ],
+  "slot3": [
+    {
+      "type": "tool",
+      "x": 990,
+      "y": 1440
+    },
+    {
+      "type": "wait",
+      "seconds": 2
+    }
+  ],
+  "slot4": [
+    {
+      "type": "tool",
+      "x": 990,
+      "y": 1440
+    },
+    {
+      "type": "wait",
+      "seconds": 2
+    }
+  ],
+  "slot5": [
+    {
+      "type": "tool",
+      "x": 990,
+      "y": 1440
+    },
+    {
+      "type": "wait",
+      "seconds": 2
+    }
+  ]
+}

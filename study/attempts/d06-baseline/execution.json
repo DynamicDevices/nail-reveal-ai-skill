@@ -1,0 +1,17 @@
+{
+  "attempt": "d06-baseline",
+  "recording_start_confirmed": true,
+  "video": "attempts/d06-baseline/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "8.108467",
+      "size": "2914604"
+    }
+  },
+  "elapsed_seconds": 8.734,
+  "stages": [
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

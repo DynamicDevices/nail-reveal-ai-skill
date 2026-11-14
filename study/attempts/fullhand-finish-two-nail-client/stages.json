@@ -1,0 +1,24 @@
+{
+  "dismiss": [
+    {
+      "type": "tool",
+      "x": 540,
+      "y": 1650
+    },
+    {
+      "type": "wait",
+      "seconds": 1
+    }
+  ],
+  "finish": [
+    {
+      "type": "tool",
+      "x": 840,
+      "y": 2200
+    },
+    {
+      "type": "wait",
+      "seconds": 3
+    }
+  ]
+}

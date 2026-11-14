@@ -1,0 +1,21 @@
+{
+  "attempt": "d17-c05-a07",
+  "recording_start_confirmed": true,
+  "video": "attempts/d17-c05-a07/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "81.988922",
+      "size": "29551776"
+    }
+  },
+  "elapsed_seconds": 83.366,
+  "stages": [
+    "frame",
+    "petal",
+    "final",
+    "hand",
+    "returned"
+  ],
+  "failure": null,
+  "accepted": null
+}

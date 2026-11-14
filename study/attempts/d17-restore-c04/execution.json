@@ -1,0 +1,20 @@
+{
+  "attempt": "d17-restore-c04",
+  "recording_start_confirmed": true,
+  "video": "attempts/d17-restore-c04/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "60.837756",
+      "size": "22420408"
+    }
+  },
+  "elapsed_seconds": 62.068,
+  "stages": [
+    "petal",
+    "final",
+    "hand",
+    "returned"
+  ],
+  "failure": null,
+  "accepted": null
+}

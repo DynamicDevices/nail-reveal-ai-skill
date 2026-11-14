@@ -1,0 +1,17 @@
+{
+  "attempt": "fullhand-look-for-client",
+  "recording_start_confirmed": true,
+  "video": "attempts/fullhand-look-for-client/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "4.087256",
+      "size": "1045176"
+    }
+  },
+  "elapsed_seconds": 4.659,
+  "stages": [
+    "clients"
+  ],
+  "failure": null,
+  "accepted": null
+}

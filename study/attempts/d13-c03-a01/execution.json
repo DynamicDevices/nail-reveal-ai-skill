@@ -1,0 +1,18 @@
+{
+  "attempt": "d13-c03-a01",
+  "recording_start_confirmed": true,
+  "video": "attempts/d13-c03-a01/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "46.626022",
+      "size": "14337980"
+    }
+  },
+  "elapsed_seconds": 47.58,
+  "stages": [
+    "coffee",
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

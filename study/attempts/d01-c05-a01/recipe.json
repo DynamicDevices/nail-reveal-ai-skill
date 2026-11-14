@@ -1,0 +1,10 @@
+{
+ "idea":"Blush moon and pearls",
+ "attempt":"d01-c05-a01",
+ "parent":"d01-c04-a02",
+ "seed":13001,
+ "hypothesis":"A matching lower four-point glint should unify the diagonal framing and distinguish the smaller satellite dots from the main accents, completing a coherent celestial composition.",
+ "mutation":"Shape the remaining large lower pearl. The top two diagonal masks are safe stationary contacts. Reach the lower-right and lower-left masks by held paths starting outside the Choose colour button, routing below the tiny satellite so it is not erased. Release after each path.",
+ "recreate":["d01-c02-a01: all stages","d01-c03-a02: all stages","d01-c04-a02: final","d01-c05-a01: final"],
+ "acceptance":"Lower glint must match the upper glint cleanly, preserve the tiny satellite and moon, and leave the palette closed. Reject any distorted star, lost point or UI activation. Glaze only after accepting this fifth improvement."
+}

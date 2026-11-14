@@ -1,0 +1,17 @@
+{
+  "attempt": "fullhand-map-middle",
+  "recording_start_confirmed": true,
+  "video": "attempts/fullhand-map-middle/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "4.082078",
+      "size": "773128"
+    }
+  },
+  "elapsed_seconds": 4.637,
+  "stages": [
+    "next"
+  ],
+  "failure": null,
+  "accepted": null
+}

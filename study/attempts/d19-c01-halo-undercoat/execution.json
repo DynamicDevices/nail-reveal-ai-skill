@@ -1,0 +1,21 @@
+{
+  "attempt": "d19-c01-halo-undercoat",
+  "recording_start_confirmed": true,
+  "video": "attempts/d19-c01-halo-undercoat/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "115.989667",
+      "size": "36122484"
+    }
+  },
+  "elapsed_seconds": 117.578,
+  "stages": [
+    "white-undercoat",
+    "green-recoat",
+    "final",
+    "hand",
+    "returned"
+  ],
+  "failure": null,
+  "accepted": null
+}

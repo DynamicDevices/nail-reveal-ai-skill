@@ -1,0 +1,1 @@
+input tap 230 2200 && sleep 0.7 && input tap 685 1265 && sleep 0.7 && input tap 540 1740 && sleep 0.7 && input motionevent DOWN 550 1080 && sleep 0.25 && sleep 1 && input motionevent UP 550 1080 && input motionevent UP 1040 2100 && sleep 0.15 && screencap -p /sdcard/nail-study-stage.png

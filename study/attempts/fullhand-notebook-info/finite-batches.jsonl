@@ -1,0 +1,1 @@
+{"stage": "book", "seconds": 2.329, "full": "attempts/fullhand-notebook-info/book-gameplay.png", "preview": "attempts/fullhand-notebook-info/book-nail.png", "crop_origin": [140, 400], "scale": 0.5, "steps": [{"type": "tool", "x": 995, "y": 375}, {"type": "wait", "seconds": 1}]}

@@ -1,0 +1,19 @@
+{
+  "attempt": "d07-c02-a01",
+  "recording_start_confirmed": true,
+  "video": "attempts/d07-c02-a01/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "51.673033",
+      "size": "20492860"
+    }
+  },
+  "elapsed_seconds": 52.852,
+  "stages": [
+    "clear-round-hindwings",
+    "lower-fill",
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

@@ -1,0 +1,13 @@
+{
+  "brief": [
+    {
+      "type": "tool",
+      "x": 165,
+      "y": 190
+    },
+    {
+      "type": "wait",
+      "seconds": 1
+    }
+  ]
+}

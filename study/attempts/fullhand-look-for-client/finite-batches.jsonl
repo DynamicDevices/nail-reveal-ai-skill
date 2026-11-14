@@ -1,0 +1,1 @@
+{"stage": "clients", "seconds": 3.58, "full": "attempts/fullhand-look-for-client/clients-gameplay.png", "preview": "attempts/fullhand-look-for-client/clients-nail.png", "crop_origin": [140, 400], "scale": 0.5, "steps": [{"type": "tool", "x": 540, "y": 2010}, {"type": "wait", "seconds": 2}]}

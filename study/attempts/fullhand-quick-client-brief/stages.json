@@ -1,0 +1,24 @@
+{
+  "close": [
+    {
+      "type": "tool",
+      "x": 540,
+      "y": 1920
+    },
+    {
+      "type": "wait",
+      "seconds": 0.7
+    }
+  ],
+  "brief": [
+    {
+      "type": "tool",
+      "x": 540,
+      "y": 2160
+    },
+    {
+      "type": "wait",
+      "seconds": 1
+    }
+  ]
+}

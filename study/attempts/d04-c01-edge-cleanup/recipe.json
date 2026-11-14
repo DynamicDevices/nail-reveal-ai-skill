@@ -1,0 +1,1 @@
+{"attempt":"d04-c01-edge-cleanup","parent":"d04-c01-a01","purpose":"Remove faint warm fringe at the trimmed fan sides/apex before assessing c01. Cleanup is not another improvement.","parameters":{"black_side_offset":75,"passes_per_side":4},"acceptance":"Clean black outside both straight sides and the point, with no golden haze."}

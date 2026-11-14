@@ -1,0 +1,22 @@
+{
+  "attempt": "d02-restore-c01-after-c02",
+  "recording_start_confirmed": true,
+  "video": "attempts/d02-restore-c01-after-c02/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "62.018267",
+      "size": "25285596"
+    }
+  },
+  "elapsed_seconds": 63.191,
+  "stages": [
+    "strip-to-pink",
+    "white-base",
+    "baseline-sage-stem-leaves",
+    "baseline-scarlet-petals",
+    "baseline-final",
+    "c01-final"
+  ],
+  "failure": null,
+  "accepted": null
+}

@@ -1,0 +1,21 @@
+{
+  "attempt": "d02-c03-a03",
+  "recording_start_confirmed": true,
+  "video": "attempts/d02-c03-a03/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "47.092056",
+      "size": "18938644"
+    }
+  },
+  "elapsed_seconds": 48.129,
+  "stages": [
+    "sage-halo",
+    "white-infill",
+    "red-petals",
+    "yellow-centre",
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

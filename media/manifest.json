@@ -1,0 +1,154 @@
+{
+  "transform": {
+    "crop": [
+      140,
+      400,
+      800,
+      1700
+    ],
+    "output_size": [
+      400,
+      850
+    ],
+    "fps": 12,
+    "audio": false,
+    "source_metadata_removed": true
+  },
+  "videos": [
+    {
+      "path": "media/videos/01-selection-colour-flag.mp4",
+      "sha256": "e6abf6c13670843007a5bd69dca99e10a43fbb9660adfa17b082fbd8a6922dee",
+      "duration_seconds": 732.166016,
+      "bytes": 6077828,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 400,
+          "height": 850,
+          "r_frame_rate": "12/1"
+        }
+      ]
+    },
+    {
+      "path": "media/videos/02-continued-flag.mp4",
+      "sha256": "e7182b5e071de162231914d86a0121c9e77679c504ef0762c0b6ee613e8d777d",
+      "duration_seconds": 515.416016,
+      "bytes": 4060382,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 400,
+          "height": 850,
+          "r_frame_rate": "12/1"
+        }
+      ]
+    },
+    {
+      "path": "media/videos/03-left-tool-icons.mp4",
+      "sha256": "3604e4e56b922c13bbcb076a28347745ba2fecb7297a75690c9d7bb9ee962059",
+      "duration_seconds": 155.416016,
+      "bytes": 756324,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 400,
+          "height": 850,
+          "r_frame_rate": "12/1"
+        }
+      ]
+    },
+    {
+      "path": "media/videos/04-blue-base-optimisation.mp4",
+      "sha256": "888f5531d460b63daa4453f9b22ed9deb4d0f7b0a757c8ea5d5c5ffe451be585",
+      "duration_seconds": 368.666667,
+      "bytes": 2506853,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 400,
+          "height": 850,
+          "r_frame_rate": "12/1"
+        }
+      ]
+    },
+    {
+      "path": "media/videos/05-uk-flag.mp4",
+      "sha256": "39b840ded53aeecff45b54cf7ce4ed037a5a2f55a00d0385dbe8a658b3780319",
+      "duration_seconds": 320.25,
+      "bytes": 2466858,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 400,
+          "height": 850,
+          "r_frame_rate": "12/1"
+        }
+      ]
+    },
+    {
+      "path": "media/videos/06-japan-brazil.mp4",
+      "sha256": "67b46b3d156c1e454cf898fb8e59529f13867dfd2135fac48d57f68a119caa1e",
+      "duration_seconds": 469.583008,
+      "bytes": 3625686,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 400,
+          "height": 850,
+          "r_frame_rate": "12/1"
+        }
+      ]
+    },
+    {
+      "path": "media/videos/07-contact-and-tools.mp4",
+      "sha256": "337b147de0cf22d0605bbde8236e3f10aa4e4e186f783f15a7fe36bbb93e3427",
+      "duration_seconds": 482.583333,
+      "bytes": 3014554,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 400,
+          "height": 850,
+          "r_frame_rate": "12/1"
+        }
+      ]
+    },
+    {
+      "path": "media/videos/08-cleanup-controls.mp4",
+      "sha256": "77a1f9864ee5ce64e0a97c72454d995dd3fb6312883cb5d3b24bf2f310034b72",
+      "duration_seconds": 436.333008,
+      "bytes": 2468091,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 400,
+          "height": 850,
+          "r_frame_rate": "12/1"
+        }
+      ]
+    },
+    {
+      "path": "media/videos/09-crescent-flower-sunset.mp4",
+      "sha256": "47175a7a7c545b5b4245071287c36c649de925b93f71250341e62fe59a6120bb",
+      "duration_seconds": 567.583333,
+      "bytes": 4761382,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 400,
+          "height": 850,
+          "r_frame_rate": "12/1"
+        }
+      ]
+    }
+  ]
+}

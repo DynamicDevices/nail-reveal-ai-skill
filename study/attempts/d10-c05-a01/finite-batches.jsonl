@@ -1,0 +1,2 @@
+{"stage": "highlight", "seconds": 4.882, "full": "attempts/d10-c05-a01/highlight-gameplay.png", "preview": "attempts/d10-c05-a01/highlight-nail.png", "crop_origin": [140, 400], "scale": 0.5, "steps": [{"type": "colour", "x": 390, "y": 1560}, {"type": "hold", "x": 540, "y": 1100, "t": 1}]}
+{"stage": "final", "seconds": 4.877, "full": "attempts/d10-c05-a01/final-gameplay.png", "preview": "attempts/d10-c05-a01/final-nail.png", "crop_origin": [140, 400], "scale": 0.5, "steps": [{"type": "colour", "x": 250, "y": 1560}, {"type": "hold", "x": 560, "y": 1120, "t": 1}]}

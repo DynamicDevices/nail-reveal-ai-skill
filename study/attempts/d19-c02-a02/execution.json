@@ -1,0 +1,20 @@
+{
+  "attempt": "d19-c02-a02",
+  "recording_start_confirmed": true,
+  "video": "attempts/d19-c02-a02/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "70.127033",
+      "size": "21028544"
+    }
+  },
+  "elapsed_seconds": 71.292,
+  "stages": [
+    "snow",
+    "final",
+    "hand",
+    "returned"
+  ],
+  "failure": null,
+  "accepted": null
+}

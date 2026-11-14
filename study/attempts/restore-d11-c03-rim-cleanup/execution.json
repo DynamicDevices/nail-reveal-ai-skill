@@ -1,0 +1,17 @@
+{
+  "attempt": "restore-d11-c03-rim-cleanup",
+  "recording_start_confirmed": true,
+  "video": "attempts/restore-d11-c03-rim-cleanup/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "15.170033",
+      "size": "6486864"
+    }
+  },
+  "elapsed_seconds": 15.935,
+  "stages": [
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

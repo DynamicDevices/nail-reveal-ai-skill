@@ -1,0 +1,18 @@
+{
+  "attempt": "d01-glaze-test",
+  "recording_start_confirmed": true,
+  "video": "attempts/d01-glaze-test/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "7.411622",
+      "size": "3046544"
+    }
+  },
+  "elapsed_seconds": 8.018,
+  "stages": [
+    "lamp-selected",
+    "lamp-settled"
+  ],
+  "failure": null,
+  "accepted": null
+}

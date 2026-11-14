@@ -1,0 +1,21 @@
+{
+  "attempt": "d06-c02-a02",
+  "recording_start_confirmed": true,
+  "video": "attempts/d06-c02-a02/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "115.659089",
+      "size": "41201168"
+    }
+  },
+  "elapsed_seconds": 117.272,
+  "stages": [
+    "white-base",
+    "plum-contacts",
+    "plum-trim",
+    "coral-contacts",
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

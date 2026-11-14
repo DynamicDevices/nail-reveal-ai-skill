@@ -1,0 +1,17 @@
+{
+  "attempt": "d02-clean-base-a02",
+  "recording_start_confirmed": true,
+  "video": "attempts/d02-clean-base-a02/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "15.762367",
+      "size": "5621192"
+    }
+  },
+  "elapsed_seconds": 16.479,
+  "stages": [
+    "endpoint-complete-white"
+  ],
+  "failure": null,
+  "accepted": null
+}

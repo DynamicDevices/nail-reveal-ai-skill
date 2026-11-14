@@ -1,0 +1,18 @@
+{
+  "attempt": "fullhand-three-colour-rest",
+  "recording_start_confirmed": true,
+  "video": "attempts/fullhand-three-colour-rest/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "29.119456",
+      "size": "10644364"
+    }
+  },
+  "elapsed_seconds": 30.04,
+  "stages": [
+    "thumb",
+    "index"
+  ],
+  "failure": null,
+  "accepted": null
+}

@@ -1,0 +1,18 @@
+{
+  "attempt": "d08-restore-baseline-after-c01",
+  "recording_start_confirmed": true,
+  "video": "attempts/d08-restore-baseline-after-c01/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "34.058678",
+      "size": "12308660"
+    }
+  },
+  "elapsed_seconds": 34.956,
+  "stages": [
+    "white-ground",
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

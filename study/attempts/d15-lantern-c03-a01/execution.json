@@ -1,0 +1,17 @@
+{
+  "attempt": "d15-lantern-c03-a01",
+  "recording_start_confirmed": true,
+  "video": "attempts/d15-lantern-c03-a01/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "41.021811",
+      "size": "15166348"
+    }
+  },
+  "elapsed_seconds": 42.028,
+  "stages": [
+    "final"
+  ],
+  "failure": null,
+  "accepted": null
+}

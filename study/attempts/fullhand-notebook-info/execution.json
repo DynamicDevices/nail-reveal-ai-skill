@@ -1,0 +1,17 @@
+{
+  "attempt": "fullhand-notebook-info",
+  "recording_start_confirmed": true,
+  "video": "attempts/fullhand-notebook-info/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "2.831944",
+      "size": "1064220"
+    }
+  },
+  "elapsed_seconds": 3.375,
+  "stages": [
+    "book"
+  ],
+  "failure": null,
+  "accepted": null
+}

@@ -1,0 +1,17 @@
+{
+  "attempt": "d02-baseline-base",
+  "recording_start_confirmed": true,
+  "video": "attempts/d02-baseline-base/creation.mp4",
+  "video_probe": {
+    "format": {
+      "duration": "11.643789",
+      "size": "4884060"
+    }
+  },
+  "elapsed_seconds": 12.343,
+  "stages": [
+    "white-base"
+  ],
+  "failure": null,
+  "accepted": null
+}

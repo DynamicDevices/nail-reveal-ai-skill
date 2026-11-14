@@ -1,0 +1,617 @@
+{
+  "schema": "nail-generative-study/v1",
+  "p0": "Actual nail designs must be beautiful; visual acceptance is not replaced by counts or scores.",
+  "target_distinct_ideas": 20,
+  "target_accepted_cycles_per_idea": 5,
+  "target_accepted_cycles_total": 100,
+  "accepted_cycles_total": 100,
+  "ideas": [
+    {
+      "id": "d01",
+      "concept": "Blush moon and pearls",
+      "baseline": "attempts/d01-baseline",
+      "accepted_cycles": [
+        "attempts/d01-c01-a01",
+        "attempts/d01-c02-a01",
+        "attempts/d01-c03-a02",
+        "attempts/d01-c04-a02",
+        "attempts/d01-c05-a01"
+      ],
+      "rejected_attempts": [
+        "attempts/d01-c03-a01",
+        "attempts/d01-c04-a01"
+      ],
+      "best": "attempts/d01-c05-a01",
+      "pending": null,
+      "glaze": {
+        "transition": "attempts/d01-glaze-test",
+        "closeup": "attempts/d01-glazed-closeup",
+        "saved_gallery_persistence_tested": false
+      },
+      "status": "five-improvements-and-glaze-captured"
+    },
+    {
+      "id": "d02",
+      "concept": "Scarlet camellia botanical",
+      "baseline": "attempts/d02-baseline",
+      "accepted_cycles": [
+        "attempts/d02-c01-a01",
+        "attempts/d02-c02-a02",
+        "attempts/d02-c03-a04",
+        "attempts/d02-c04-a02",
+        "attempts/d02-c05-a01"
+      ],
+      "rejected_attempts": [
+        "attempts/d02-c02-a01",
+        "attempts/d02-c03-a01",
+        "attempts/d02-c03-a02",
+        "attempts/d02-c03-a03",
+        "attempts/d02-c04-a01"
+      ],
+      "rejected_preparation": [
+        "attempts/d02-baseline-base"
+      ],
+      "clean_base": "attempts/d02-clean-base-a02",
+      "best": "attempts/d02-c05-a01",
+      "pending": null,
+      "glaze": {
+        "transition": "attempts/d02-glaze",
+        "closeup": "attempts/d02-glazed-closeup",
+        "saved_gallery_persistence_tested": false
+      },
+      "status": "five-improvements-and-glaze-captured"
+    },
+    {
+      "id": "d03",
+      "concept": "Sea-glass tidal sweep",
+      "baseline": "attempts/d03-baseline",
+      "accepted_cycles": [
+        "attempts/d03-c01-a02",
+        "attempts/d03-c02-a01",
+        "attempts/d03-c03-a01",
+        "attempts/d03-c04-a01",
+        "attempts/d03-c05-a02"
+      ],
+      "rejected_attempts": [
+        "attempts/d03-c01-a01",
+        "attempts/d03-c05-a01"
+      ],
+      "clean_base": "attempts/d03-clean-base",
+      "best": "attempts/d03-c05-a02",
+      "pending": null,
+      "glaze": {
+        "transition": "attempts/d03-glaze",
+        "closeup": "attempts/d03-glazed-closeup",
+        "saved_gallery_persistence_tested": false
+      },
+      "status": "five-improvements-and-glaze-captured"
+    },
+    {
+      "id": "d04",
+      "concept": "Art Deco golden fan",
+      "baseline": "attempts/d04-baseline",
+      "accepted_cycles": [
+        "attempts/d04-c01-a01",
+        "attempts/d04-c02-a02",
+        "attempts/d04-c03-a01",
+        "attempts/d04-c04-a01",
+        "attempts/d04-c05-a01"
+      ],
+      "finishing_attempts": [
+        "attempts/d04-c01-edge-cleanup"
+      ],
+      "effective_final_images": {
+        "attempts/d04-c01-a01": "attempts/d04-c01-edge-cleanup/final-nail.png"
+      },
+      "rejected_attempts": [
+        "attempts/d04-c02-a01"
+      ],
+      "clean_base": "attempts/d04-clean-base",
+      "best": "attempts/d04-c05-a01",
+      "pending": null,
+      "glaze": {
+        "transition": "attempts/d04-glaze",
+        "closeup": "attempts/d04-glazed-closeup",
+        "saved_gallery_persistence_tested": false
+      },
+      "status": "five-improvements-and-glaze-captured"
+    },
+    {
+      "id": "d05",
+      "concept": "Plum and rose geometric inlay",
+      "baseline": "attempts/d05-baseline",
+      "accepted_cycles": [
+        "attempts/d05-c01-a01",
+        "attempts/d05-c02-a01",
+        "attempts/d05-c03-a01",
+        "attempts/d05-c04-a02",
+        "attempts/d05-c05-a02"
+      ],
+      "finishing_attempts": [
+        "attempts/d05-c03-cleanup"
+      ],
+      "effective_final_images": {
+        "attempts/d05-c03-a01": "attempts/d05-c03-cleanup/final-nail.png"
+      },
+      "rejected_attempts": [
+        "attempts/d05-c04-a01",
+        "attempts/d05-c05-a01"
+      ],
+      "clean_base": "attempts/d05-clean-base",
+      "best": "attempts/d05-c05-a02",
+      "pending": null,
+      "glaze": {
+        "transition": "attempts/d05-glaze",
+        "closeup": "attempts/d05-glazed-closeup",
+        "saved_gallery_persistence_tested": false
+      },
+      "status": "five-improvements-and-glaze-captured"
+    },
+    {
+      "id": "d06",
+      "concept": "White terrazzo with a golden mineral inset",
+      "baseline": "attempts/d06-baseline",
+      "accepted_cycles": [
+        "attempts/d06-c01-a01",
+        "attempts/d06-c02-a02",
+        "attempts/d06-c03-a01",
+        "attempts/d06-c04-a01",
+        "attempts/d06-c05-a02"
+      ],
+      "finishing_attempts": [
+        "attempts/d06-c01-cleanup",
+        "attempts/d06-c05-cleanup",
+        "attempts/d06-c05-cleanup-a02"
+      ],
+      "effective_final_images": {
+        "attempts/d06-c01-a01": "attempts/d06-c01-cleanup/final-nail.png",
+        "attempts/d06-c05-a02": "attempts/d06-c05-cleanup-a02/final-nail.png"
+      },
+      "rejected_attempts": [
+        "attempts/d06-c02-a01",
+        "attempts/d06-c05-a01"
+      ],
+      "clean_base": "attempts/d06-clean-base",
+      "best": "attempts/d06-c05-a02",
+      "pending": null,
+      "glaze": {
+        "transition": "attempts/d06-glaze",
+        "closeup": "attempts/d06-glazed-closeup",
+        "saved_gallery_persistence_tested": false
+      },
+      "status": "five-improvements-and-glaze-captured"
+    },
+    {
+      "id": "d07",
+      "concept": "Pearl-centred teal butterfly brooch",
+      "baseline": "attempts/d07-baseline",
+      "clean_base": "attempts/d07-clean-base",
+      "accepted_cycles": [
+        "attempts/d07-c01-a01",
+        "attempts/d07-c02-a01",
+        "attempts/d07-c03-a04",
+        "attempts/d07-c04-a01",
+        "attempts/d07-c05-a01"
+      ],
+      "finishing_attempts": [
+        "attempts/d07-c04-cleanup"
+      ],
+      "effective_final_images": {
+        "attempts/d07-c04-a01": "attempts/d07-c04-cleanup/final-nail.png"
+      },
+      "rejected_attempts": [
+        "attempts/d07-c03-a01",
+        "attempts/d07-c03-a02",
+        "attempts/d07-c03-a03"
+      ],
+      "best": "attempts/d07-c05-a01",
+      "pending": null,
+      "glaze": {
+        "transition": "attempts/d07-glaze",
+        "closeup": "attempts/d07-glazed-closeup",
+        "saved_gallery_persistence_tested": false
+      },
+      "status": "five-improvements-and-glaze-captured"
+    },
+    {
+      "id": "d08",
+      "concept": "Twin cherries on porcelain",
+      "baseline": "attempts/d08-baseline",
+      "clean_base": "attempts/d08-clean-base",
+      "accepted_cycles": [
+        "attempts/d08-c01-a02",
+        "attempts/d08-c02-a01",
+        "attempts/d08-c03-a01",
+        "attempts/d08-c04-a01",
+        "attempts/d08-c05-a01"
+      ],
+      "finishing_attempts": [
+        "attempts/d08-c03-collar-cleanup"
+      ],
+      "effective_final_images": {
+        "attempts/d08-c03-a01": "attempts/d08-c03-collar-cleanup/final-nail.png"
+      },
+      "rejected_attempts": [
+        "attempts/d08-c01-a01"
+      ],
+      "best": "attempts/d08-c05-a01",
+      "pending": null,
+      "glaze": {
+        "transition": "attempts/d08-glaze",
+        "closeup": "attempts/d08-glazed-closeup",
+        "saved_gallery_persistence_tested": false
+      },
+      "status": "five-improvements-and-glaze-captured"
+    },
+    {
+      "id": "d09",
+      "concept": "Moonlit city in black and warm yellow on white",
+      "clean_base": "attempts/d09-clean-base",
+      "baseline": "attempts/d09-baseline",
+      "accepted_cycles": [
+        "attempts/d09-c01-a01",
+        "attempts/d09-c02-a01",
+        "attempts/d09-c03-a01",
+        "attempts/d09-c04-a01",
+        "attempts/d09-c05-a01"
+      ],
+      "finishing_attempts": [
+        "attempts/d09-c01-roof-cleanup",
+        "attempts/d09-c02-joint-cleanup",
+        "attempts/d09-c04-window-cleanup"
+      ],
+      "effective_final_images": {
+        "attempts/d09-c01-a01": "attempts/d09-c01-roof-cleanup/final-nail.png",
+        "attempts/d09-c02-a01": "attempts/d09-c02-joint-cleanup/final-nail.png",
+        "attempts/d09-c04-a01": "attempts/d09-c04-window-cleanup/final-nail.png"
+      },
+      "rejected_attempts": [],
+      "best": "attempts/d09-c05-a01",
+      "pending": null,
+      "glaze": {
+        "transition": "attempts/d09-glaze",
+        "closeup": "attempts/d09-glazed-closeup",
+        "saved_gallery_persistence_tested": false
+      },
+      "status": "five-improvements-and-glaze-captured"
+    },
+    {
+      "id": "d10",
+      "concept": "Peacock feather on porcelain",
+      "clean_base": "attempts/d10-clean-base",
+      "baseline": "attempts/d10-baseline",
+      "accepted_cycles": [
+        "attempts/d10-c01-a01",
+        "attempts/d10-c02-a01",
+        "attempts/d10-c03-a01",
+        "attempts/d10-c04-a03",
+        "attempts/d10-c05-a01"
+      ],
+      "finishing_attempts": [
+        "attempts/d10-c03-taper-cleanup",
+        "attempts/d10-c04-contour-cleanup",
+        "attempts/d10-c05-rim-cleanup"
+      ],
+      "effective_final_images": {
+        "attempts/d10-c03-a01": "attempts/d10-c03-taper-cleanup/final-nail.png",
+        "attempts/d10-c04-a03": "attempts/d10-c04-contour-cleanup/final-nail.png",
+        "attempts/d10-c05-a01": "attempts/d10-c05-rim-cleanup/final-nail.png"
+      },
+      "rejected_attempts": [
+        "attempts/d10-c04-a02"
+      ],
+      "restorations": [
+        "attempts/restore-d10-c03-after-gold"
+      ],
+      "best": "attempts/d10-c05-a01",
+      "pending": null,
+      "glaze": {
+        "transition": "attempts/d10-glaze",
+        "closeup": "attempts/d10-glazed-closeup",
+        "saved_gallery_persistence_tested": false
+      },
+      "status": "five-improvements-and-glaze-captured"
+    },
+    {
+      "id": "d11",
+      "concept": "Ivory ribbon bow on plum",
+      "clean_base": "attempts/d11-clean-base",
+      "baseline": "attempts/d11-baseline",
+      "accepted_cycles": [
+        "attempts/d11-c01-a01",
+        "attempts/d11-c02-a01",
+        "attempts/d11-c03-a01",
+        "attempts/d11-c04-a02",
+        "attempts/d11-c05-a01"
+      ],
+      "finishing_attempts": [
+        "attempts/d11-c04-outer-cleanup",
+        "attempts/d11-c04-rim-closure"
+      ],
+      "effective_final_images": {
+        "attempts/d11-c04-a02": "attempts/d11-c04-rim-closure/final-nail.png"
+      },
+      "rejected_attempts": [
+        "attempts/d11-c04-a01"
+      ],
+      "restorations": [
+        "attempts/restore-d11-c03-after-round-holes",
+        "attempts/restore-d11-c03-rim-cleanup",
+        "attempts/restore-d11-c03-full"
+      ],
+      "best": "attempts/d11-c05-a01",
+      "pending": null,
+      "glaze": {
+        "transition": "attempts/d11-glaze",
+        "closeup": "attempts/d11-glazed-closeup",
+        "saved_gallery_persistence_tested": false
+      },
+      "status": "five-improvements-and-glaze-captured"
+    },
+    {
+      "id": "d12",
+      "concept": "White and scarlet koi on teal water",
+      "clean_base": "attempts/d12-clean-base",
+      "baseline": "attempts/d12-baseline",
+      "accepted_cycles": [
+        "attempts/d12-c01-a02",
+        "attempts/d12-c02-a01",
+        "attempts/d12-c03-a02",
+        "attempts/d12-c04-a01",
+        "attempts/d12-c05-a01"
+      ],
+      "rejected_attempts": [
+        "attempts/d12-c01-a01"
+      ],
+      "finishing_attempts": [
+        "attempts/d12-c01-margin-check"
+      ],
+      "restorations": [
+        "attempts/restore-d12-baseline-after-tail"
+      ],
+      "best": "attempts/d12-c05-a01",
+      "pending": null,
+      "glaze": {
+        "transition": "attempts/d12-glaze",
+        "closeup": "attempts/d12-glazed-closeup",
+        "saved_gallery_persistence_tested": false
+      },
+      "status": "five-improvements-and-glaze-captured"
+    },
+    {
+      "id": "d13",
+      "concept": "Warm cafe cup on plum",
+      "clean_base": "attempts/d13-clean-base",
+      "baseline": "attempts/d13-baseline",
+      "accepted_cycles": [
+        "attempts/d13-c01-a01",
+        "attempts/d13-c02-a01",
+        "attempts/d13-c03-a01",
+        "attempts/d13-c04-a01",
+        "attempts/d13-c05-a01"
+      ],
+      "finishing_attempts": [
+        "attempts/d13-c01-cap-cleanup"
+      ],
+      "effective_final_images": {
+        "attempts/d13-c01-a01": "attempts/d13-c01-cap-cleanup/final-nail.png"
+      },
+      "rejected_attempts": [],
+      "best": "attempts/d13-c05-a01",
+      "pending": null,
+      "glaze": {
+        "transition": "attempts/d13-glaze",
+        "closeup": "attempts/d13-glazed-closeup",
+        "saved_gallery_persistence_tested": false
+      },
+      "status": "five-improvements-and-glaze-captured"
+    },
+    {
+      "id": "d14",
+      "concept": "Gold umbrella with scarlet canopy inset on black",
+      "clean_base": "attempts/d14-clean-base",
+      "baseline": "attempts/d14-baseline",
+      "accepted_cycles": [
+        "attempts/d14-c01-a01",
+        "attempts/d14-c02-a01",
+        "attempts/d14-c03-a01",
+        "attempts/d14-c04-a01",
+        "attempts/d14-c05-a03"
+      ],
+      "rejected_attempts": [
+        "attempts/d14-c05-a01",
+        "attempts/d14-c05-a02"
+      ],
+      "best": "attempts/d14-c05-a03",
+      "pending": null,
+      "status": "five-improvements-and-glaze-captured",
+      "restorations": [
+        "attempts/d14-restore-c04-after-rain",
+        "attempts/d14-restore-c04-after-rain2",
+        "attempts/d14-restore-c04-fringe-cleanup",
+        "attempts/d14-restore-c04-full-after-rain2"
+      ],
+      "glaze": {
+        "transition": "attempts/d14-glaze",
+        "closeup": "attempts/d14-glazed-closeup",
+        "saved_gallery_persistence_tested": false
+      }
+    },
+    {
+      "id": "d15",
+      "concept": "Scarlet paper lantern on porcelain",
+      "clean_base": "attempts/d15-clean-base",
+      "baseline": "attempts/d15-lantern-baseline",
+      "accepted_cycles": [
+        "attempts/d15-lantern-c01-a01",
+        "attempts/d15-lantern-c02-a01",
+        "attempts/d15-lantern-c03-a01",
+        "attempts/d15-lantern-c04-a02",
+        "attempts/d15-lantern-c05-a02"
+      ],
+      "rejected_attempts": [
+        "attempts/d15-lantern-c04-a01",
+        "attempts/d15-lantern-c05-a01"
+      ],
+      "best": "attempts/d15-lantern-c05-a02",
+      "pending": null,
+      "status": "five-improvements-and-glaze-captured",
+      "restorations": [
+        "attempts/d15-lantern-restore-c03"
+      ],
+      "glaze": {
+        "transition": "attempts/d15-glaze",
+        "closeup": "attempts/d15-glazed-closeup",
+        "saved_gallery_persistence_tested": false
+      }
+    },
+    {
+      "id": "d16",
+      "concept": "Gold-rimmed scarlet ladybird on porcelain",
+      "clean_base": "attempts/d16-clean-base",
+      "baseline": "attempts/d16-baseline-density",
+      "accepted_cycles": [
+        "attempts/d16-c01-a01",
+        "attempts/d16-c02-a01",
+        "attempts/d16-c03-a01",
+        "attempts/d16-c04-a01",
+        "attempts/d16-c05-a02"
+      ],
+      "rejected_attempts": [
+        "attempts/d16-c05-a01"
+      ],
+      "best": "attempts/d16-c05-a02",
+      "pending": null,
+      "status": "five-improvements-and-glaze-captured",
+      "restorations": [
+        "attempts/d16-restore-c04-after-glints"
+      ],
+      "initial_baseline": "attempts/d16-baseline",
+      "finishing_attempts": [
+        "attempts/d16-baseline-density"
+      ],
+      "glaze": {
+        "transition": "attempts/d16-glaze",
+        "closeup": "attempts/d16-glazed-closeup",
+        "saved_gallery_persistence_tested": false
+      }
+    },
+    {
+      "id": "d17",
+      "concept": "White calla lily on plum",
+      "clean_base": "attempts/d17-clean-base",
+      "baseline": "attempts/d17-baseline",
+      "accepted_cycles": [
+        "attempts/d17-c01-a01",
+        "attempts/d17-c02-a01",
+        "attempts/d17-c03-a01",
+        "attempts/d17-c04-a02",
+        "attempts/d17-c05-a07"
+      ],
+      "rejected_attempts": [
+        "attempts/d17-c05-a04"
+      ],
+      "best": "attempts/d17-c05-a07",
+      "pending": null,
+      "restorations": [
+        "attempts/d17-restore-c04"
+      ],
+      "status": "five-improvements-and-glaze-captured",
+      "glaze": {
+        "transition": "attempts/d17-glaze",
+        "closeup": "attempts/d17-glazed-closeup",
+        "saved_gallery_persistence_tested": false
+      }
+    },
+    {
+      "id": "d18",
+      "concept": "Golden perfume flacon with ruby seal on black",
+      "clean_base": "attempts/d18-clean-base",
+      "baseline": "attempts/d18-baseline",
+      "accepted_cycles": [
+        "attempts/d18-c01-a01",
+        "attempts/d18-c02-a01",
+        "attempts/d18-c03-a01",
+        "attempts/d18-c04-a01",
+        "attempts/d18-c05-a01"
+      ],
+      "rejected_attempts": [],
+      "best": "attempts/d18-c05-a01",
+      "effective_final_images": {
+        "attempts/d18-c01-a01": "attempts/d18-c01-density-cleanup/final-nail.png"
+      },
+      "finishing_attempts": [
+        "attempts/d18-c01-density-cleanup"
+      ],
+      "pending": null,
+      "status": "five-improvements-and-glaze-captured",
+      "glaze": {
+        "transition": "attempts/d18-glaze",
+        "closeup": "attempts/d18-glazed-closeup",
+        "saved_gallery_persistence_tested": false
+      }
+    },
+    {
+      "id": "d19",
+      "concept": "Moonlit alpine peak and lake on plum",
+      "clean_base": "attempts/d19-clean-base",
+      "baseline": "attempts/d19-baseline",
+      "accepted_cycles": [
+        "attempts/d19-c01-a02",
+        "attempts/d19-c02-a02",
+        "attempts/d19-c03-a01",
+        "attempts/d19-c04-a01",
+        "attempts/d19-c05-a02"
+      ],
+      "rejected_attempts": [
+        "attempts/d19-c01-a01"
+      ],
+      "best": "attempts/d19-c05-a02",
+      "restorations": [
+        "attempts/d19-restore-baseline"
+      ],
+      "failed_cleanup_attempts": [
+        "attempts/d19-c01-halo-undercoat"
+      ],
+      "pending": null,
+      "status": "five-improvements-and-glaze-captured",
+      "glaze": {
+        "transition": "attempts/d19-glaze",
+        "closeup": "attempts/d19-glazed-closeup",
+        "saved_gallery_persistence_tested": false
+      }
+    },
+    {
+      "id": "d20",
+      "concept": "Ringed sea-glass planet and crescent moon on black",
+      "clean_base": "attempts/d20-clean-base",
+      "baseline": "attempts/d20-baseline-density",
+      "accepted_cycles": [
+        "attempts/d20-c01-a01",
+        "attempts/d20-c02-a01",
+        "attempts/d20-c03-a02",
+        "attempts/d20-c04-a02",
+        "attempts/d20-c05-a02"
+      ],
+      "rejected_attempts": [
+        "attempts/d20-c04-a01"
+      ],
+      "restorations": [
+        "attempts/d20-restore-c03"
+      ],
+      "best": "attempts/d20-c05-a02",
+      "initial_baseline": "attempts/d20-baseline",
+      "finishing_attempts": [
+        "attempts/d20-baseline-density"
+      ],
+      "pending": null,
+      "status": "five-improvements-and-glaze-captured",
+      "glaze": {
+        "transition": "attempts/d20-glaze",
+        "closeup": "attempts/d20-glazed-closeup",
+        "saved_gallery_persistence_tested": false
+      }
+    }
+  ],
+  "counting_rule": "Baselines, rejected attempts, restorations and preparation do not count as accepted improvement cycles. After five accepted cycles, the next idea must be a genuinely new concept, not another variation of the same motif."
+}
