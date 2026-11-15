@@ -44,6 +44,12 @@ class BoundReviewTests(unittest.TestCase):
         with self.assertRaises(InvalidReview):
             self.check()
 
+    def test_native_placeholder_cannot_publish_despite_valid_bindings(self):
+        self.result["review"] = "placeholder"
+        self.completion["result_sha256"] = canonical_digest(self.result)
+        with self.assertRaisesRegex(InvalidReview, "Review not performed"):
+            self.check()
+
     def test_receipt_nonce_and_digest_must_match_durable_intent(self):
         for field in ("challenge", "diff_sha256"):
             saved = self.receipt[field]
@@ -65,6 +71,14 @@ class BoundReviewTests(unittest.TestCase):
                 with self.assertRaises(InvalidReview):
                     self.check()
                 record[field] = saved
+
+    def test_completion_rejects_pending_failed_or_unknown_startup_state(self):
+        for state in ('pending', 'failed', 'unknown'):
+            self.execution['startup_receipt_status'] = state
+            with self.subTest(state=state), self.assertRaises(InvalidReview):
+                self.check()
+        self.execution['startup_receipt_status'] = 'recorded'
+        self.assertEqual(self.check()['state'], 'success')
 
     def test_missing_controller_startup_never_passes(self):
         for startup in (None, {}, dict(self.execution["startup_receipt"], setup_completed=False)):
